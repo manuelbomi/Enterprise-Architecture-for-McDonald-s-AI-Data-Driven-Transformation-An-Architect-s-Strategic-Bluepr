@@ -314,36 +314,19 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
 - Threats: Regional data sovereignty laws, Franchisee adoption resistance, Competitive AI investments
 
 
+<img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/3c40b8d3-97bc-4d7e-9773-2412bac10213" />
 
-### MCDONALD'S GAP ANALYSIS - Kitchen Automation Capability
-
-| Current State (2.2/5.0) | Target State (4.5/5.0) |
-|--------------------------|-------------------------|
-| • Basic KDS coordination | • AI-optimized preparation schedule |
-| • Manual equipment monitoring | • Predictive maintenance alerts |
-| • Reactive waste management | • AI-driven waste reduction |
-| • Standardized cooking times | • Dynamic cooking parameters |
-| • Isolated kitchen systems | • Integrated kitchen intelligence |
-
-### Identified Gaps:
-1. Real-time ingredient tracking sensors
-2. Computer vision for food quality
-3. ML models for demand forecasting
-4. IoT integration platform
-5. Edge AI infrastructure at restaurants
-
-**Investment Required:** $3.2M per 1,000 restaurants  
-**Expected ROI:** 15% food cost reduction, 20% throughput increase
+ *Figure 4: McDonald's-specific AI capability assessment & Gap Analysis*
 
 
-# 🍟 MCDONALD'S GAP ANALYSIS - Kitchen Automation Capability
+### 🍟 MCDONALD'S GAP ANALYSIS - Kitchen Automation Capability
 
-## 📊 Capability Assessment
+###  Capability Assessment
 | | Current State | Target State | Gap |
 |-|---------------|--------------|-----|
 | **Maturity Score** | ⭐⭐🟊🟊🟊 (2.2/5.0) | ⭐⭐⭐⭐🟊 (4.5/5.0) | **2.3 points** |
 
-## 🔄 State Comparison
+###  State Comparison
 | 🟥 CURRENT STATE (2026) | 🟩 TARGET STATE (2029) |
 |-------------------------|------------------------|
 | • Basic KDS coordination | • AI-optimized preparation schedule |
@@ -367,9 +350,55 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
   - **30% reduction** in food waste
   - **25% improvement** in order accuracy
 
- <img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/3c40b8d3-97bc-4d7e-9773-2412bac10213" />
 
- *Figure 4: McDonald's-specific AI capability assessment & Gap Analysis*
+### 🍟 MCDONALD'S GAP ANALYSIS - Kitchen Automation Capability
+
+```mermaid
+quadrantChart
+    title McDonald's Kitchen Automation Capability Gaps
+    x-axis "Current Maturity" --> "Target Maturity"
+    y-axis "Technology Complexity" --> "Business Impact"
+    
+    quadrant-1 "Quick Wins"
+    quadrant-2 "Strategic Initiatives"
+    quadrant-3 "Foundation Work"
+    quadrant-4 "Major Projects"
+    
+    "KDS Coordination": [0.2, 0.3]
+    "Equipment Monitoring": [0.1, 0.4]
+    "Waste Management": [0.3, 0.6]
+    "Cooking Optimization": [0.6, 0.8]
+    "Kitchen Integration": [0.8, 0.9]
+    
+    "Target State": [0.9, 0.9]
+```
+
+## 📊 Gap Analysis Details
+
+| Capability Area | Current State | Target State | Gap Size |
+|-----------------|---------------|--------------|----------|
+| **KDS Integration** | Basic coordination | AI-optimized scheduling | Large |
+| **Equipment Management** | Manual monitoring | Predictive maintenance | Medium |
+| **Waste Control** | Reactive processes | AI-driven reduction | Large |
+| **Cooking Processes** | Standardized times | Dynamic parameters | Medium |
+| **System Integration** | Isolated systems | Intelligent integration | Large |
+
+## 🎯 Priority Gaps to Address
+1. **IoT Sensors** ($1.2M): Real-time ingredient tracking
+2. **Computer Vision** ($0.8M): Automated quality control
+3. **ML Forecasting** ($0.5M): Demand prediction models
+4. **Integration Platform** ($0.4M): Unified IoT management
+5. **Edge AI** ($0.3M): Restaurant-level processing
+
+## 📈 Business Case
+- **Total Investment:** $3.2M per 1,000 restaurants
+- **Annual Savings:** $4.8M (15% food cost reduction)
+- **Throughput Gain:** 20% increased capacity
+- **Payback Period:** 8 months
+- **3-Year ROI:** 450%
+```
+
+
 
 
 
