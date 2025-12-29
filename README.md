@@ -265,6 +265,28 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
 
 ---
 
+## 3. McDonald's Four-Phase Business Capability Modeling
+
+### <ins>Phase 1</ins>: Strategic Assessment of McDonald's AI Opportunities
+
+#### McDonald's-Specific Activities:
+
+- Franchisee council workshops on AI adoption barriers
+
+- Competitive analysis against Starbucks' Deep Brew and Domino's AI initiatives
+
+- Assessment of current tech stack fragmentation (POS vendors, mobile platforms)
+
+- Regulatory mapping for 100+ countries on customer data usage
+
+- AI ambition levels for McDonald's:
+
+  - Current: Basic personalization (Dynamic Yield)
+
+  - 2026: Predictive kitchen operations
+
+  - 2027-2029: Autonomous restaurant elements
+
 
 
 
