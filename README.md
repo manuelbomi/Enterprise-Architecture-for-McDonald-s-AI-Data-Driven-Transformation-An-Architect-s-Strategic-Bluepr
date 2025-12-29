@@ -288,6 +288,11 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
   - 2027-2029: Autonomous restaurant elements
 
 
+ <img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/3c40b8d3-97bc-4d7e-9773-2412bac10213" />
+
+ *Figure 4: McDonald's-specific AI capability assessment & Gap Analysis*
+
+
 
 
 
