@@ -292,6 +292,22 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
 
  *Figure 4: McDonald's-specific AI capability assessment & Gap Analysis*
 
+ ---
+
+### <ins>Phase 2</ins>: Target Capability Architecture for McDonald's
+
+#### McDonald's-Specific Capabilities:
+
+- Real-time Menu Optimization: Dynamic pricing and item suggestions based on inventory, weather, local events
+
+- Predictive Kitchen Load Balancing: AI forecasting of order volumes for preparation optimization
+
+- Unified Customer Identity: 360° view across app, kiosk, drive-thru, and delivery
+
+- Autonomous Food Safety Monitoring: Computer vision for quality control
+
+- Franchisee Performance Intelligence: Predictive analytics for local store marketing
+
 
 
 
