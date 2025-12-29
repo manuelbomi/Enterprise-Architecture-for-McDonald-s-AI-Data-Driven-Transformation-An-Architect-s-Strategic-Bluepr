@@ -311,32 +311,11 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
 
 ---
 
-### <ins>Phase 3</ins>: Current State Assessment & Gap Analysis
-
-#### McDonald's Current Tech Stack Analysis (from technical blog):
-
-- Strengths: Global mobile app penetration, Dynamic Yield acquisition, Cloud migration underway
-
-- Weaknesses: Fragmented POS systems, Limited real-time data integration, Siloed data teams
-
-- Opportunities: Kitchen automation patents, Voice AI acquisitions, Edge computing partnerships
-
-- Threats: Regional data sovereignty laws, Franchisee adoption resistance, Competitive AI investments
-
-
-
-
-
-### 🍟 MCDONALD'S Kitchen Automation Capability & GAP Analysis
+### 🍟 McDonald's Kitchen Automation Capability & GAP Analysis
 
 ### Current vs Target State Comparison
 
-| | Current State | Target State | Gap |
-|-|---------------|--------------|-----|
-| **Maturity Score** | ⭐⭐🟊🟊🟊 (2.2/5.0) | ⭐⭐⭐⭐🟊 (4.5/5.0) | **2.3 points** |
-
-
-### 🟥 CURRENT STATE (2026) - Maturity: 2.2/5.0
+### 🟥 <ins>Current State</ins> (2026) - Maturity: 2.2/5.0
 **Operational Characteristics:**
 - **KDS Coordination:** Basic digital kitchen display system
 - **Equipment Monitoring:** Manual checks, reactive maintenance
@@ -344,13 +323,17 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
 - **Cooking Processes:** Fixed timers, standardized recipes
 - **System Integration:** Silos between ordering, inventory, kitchen
 
-### 🟩 TARGET STATE (2029) - Maturity: 4.5/5.0
+### 🟩 <ins>Target State</ins> (2029) - Maturity: 4.5/5.0
 **Advanced Capabilities:**
 - **AI-Optimized Scheduling:** Dynamic prep based on real-time demand
 - **Predictive Maintenance:** AI alerts before equipment failure
 - **Proactive Waste Reduction:** ML-driven inventory optimization
 - **Dynamic Cooking:** Adaptive parameters for quality and speed
 - **Integrated Intelligence:** Unified kitchen operating system
+
+| | Current State | Target State | Gap |
+|-|---------------|--------------|-----|
+| **Maturity Score** | ⭐⭐🟊🟊🟊 (2.2/5.0) | ⭐⭐⭐⭐🟊 (4.5/5.0) | **2.3 points** |
 
 ###  <ins>Identified Capability Gaps</ins>
 
@@ -398,10 +381,9 @@ quadrantChart
     
     "Target State": [0.9, 0.9]
 ```
-
 ### 💰 <ins>Investment & ROI Analysis</ins>
 
-### Financial Summary
+### <ins>Financial Summary</ins>
 | Metric | Value | Calculation |
 |--------|-------|-------------|
 | **Per Restaurant Cost** | $3,200 | Total investment ÷ 1,000 |
@@ -413,7 +395,7 @@ quadrantChart
 | **Payback Period** | 2.4 months | Investment ÷ Monthly savings |
 | **3-Year ROI** | 4,400% | (3-year savings - investment) ÷ investment |
 
-### Investment & ROI Summary
+### <ins>Investment & ROI Summary</ins>
 - **Investment Required:** $3.2M per 1,000 restaurants
 - **Expected ROI (3 Years):**
   - **15% reduction** in food costs
@@ -421,12 +403,25 @@ quadrantChart
   - **30% reduction** in food waste
   - **25% improvement** in order accuracy
 
-### Implementation Timeline
+### <ins>Implementation Timeline</ins>
 - **Phase 1 (6 months):** IoT sensors + integration platform
 - **Phase 2 (6 months):** Computer vision + edge infrastructure
 - **Phase 3 (12 months):** ML models + full integration
 - **Phase 4 (12 months):** Optimization + scaling
-- 
+
+---
+
+### <ins>Phase 3</ins>: Current State Assessment & Gap Analysis
+
+#### McDonald's Current Tech Stack Analysis (from technical blog):
+
+- Strengths: Global mobile app penetration, Dynamic Yield acquisition, Cloud migration underway
+
+- Weaknesses: Fragmented POS systems, Limited real-time data integration, Siloed data teams
+
+- Opportunities: Kitchen automation patents, Voice AI acquisitions, Edge computing partnerships
+
+- Threats: Regional data sovereignty laws, Franchisee adoption resistance, Competitive AI investments
 
 
 
