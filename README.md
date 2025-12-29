@@ -183,6 +183,7 @@ timeline
 
 ### 2.2 ArchiMate EA Model for McDonald's Restaurant Technology Stack & Roadmap
 
+```python
 
 ┌─────────────────────────────────────────────────────────┐
 │                    BUSINESS LAYER                       │
@@ -233,6 +234,8 @@ timeline
 │  • Drive-Thru Sensors & Cameras                          │
 │  • Cloud Regions (GCP – per market)                      │
 └──────────────────────────────────────────────────────────┘
+
+```
 
 
 
