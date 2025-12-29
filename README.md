@@ -22,11 +22,36 @@
 
 - Regulatory Diversity: 100+ countries with varying data privacy and AI regulations
 
+```python
+LEFT SIDE: CURRENT STATE (2024)                     RIGHT SIDE: TARGET STATE (2027)
+┌────────────────────────────────────────────┐     ┌────────────────────────────────────────────┐
+│    CURRENT CAPABILITIES                    │     │    TARGET CAPABILITIES                     │
+│    • Silos: POS ≠ Mobile ≠ Supply Chain    │     │    • Unified Customer 360° View            │
+│    • Basic Personalization (Dynamic Yield) │     │    • Predictive Kitchen Operations         │
+│    • Limited Edge AI (Pilot Programs)      │     │    • Full Edge AI Deployment               │
+│    • Manual Operations Dominant            │     │    • Autonomous Restaurant Elements        │
+│    • Fragmented Data Governance            │     │    • Integrated AI Governance              │
+└────────────────────────────────────────────┘     └────────────────────────────────────────────┘
+                        ▲                                        ▲
+                        │                                        │
+                        └────────── TRANSFORMATION ──────────────┘
+                                 ARCHITECTURE ROADMAP
+```
+
 
 
 ![Image](https://github.com/user-attachments/assets/5a3d6419-e0a6-4952-a6a8-e739cfc62654)
 
-### *Figure 1: McDonald's current and target AI capability landscape*
+### *Figure 1: McDonald's current and target AI/Data capability landscape*
+
+---
+
+
+## 2. Integrating Business Capability Models with McDonald's Architecture
+For McDonald's global scale and franchise-based operational model, traditional enterprise architecture frameworks require significant adaptation. The integration of business capability models with McDonald's architecture must address the unique tension between centralized efficiency and local autonomy, while enabling scalable AI deployment across 40,000+ diverse locations.
+
+2.1 McDonald's-Specific TOGAF ADM Adaptation
+McDonald's requires a modified TOGAF Architecture Development Method (ADM) that incorporates franchisee engagement cycles and market-specific compliance checkpoints. This adaptation transforms the standard ADM into a federated architecture approach, where global AI platforms support local customization while maintaining core governance standards across all markets.
 
 
 
