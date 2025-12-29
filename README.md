@@ -442,9 +442,17 @@ quadrantChart
 
 ## 4. Quantifying Impact: EA-Guided vs Current McDonald's AI Approach
 
-### 4.1 Comparative Analysis for McDonald's Scale
+### 4.1 Comparative Analysis: McDonald's Current vs EA vs Industry's Best
 
-<img width="1400" height="700" alt="Image" src="https://github.com/user-attachments/assets/f813d631-eb49-4ebf-b0d9-46d0851ea6ea" />
+<img width="1400" height="700" alt="Image" src="https://github.com/user-attachments/assets/f813d631-eb49-4ebf-b0d9-46d0851ea6ea" 
+
+  *Figure 5: EA-guided approach impact analysis for McDonald's*
+  
+---
+
+### 4.2 Financial Impact Analysis for Data/AI/EA Adoption
+
+#### Three-Year ROI Projection (40,000 restaurants):
 
 
 
