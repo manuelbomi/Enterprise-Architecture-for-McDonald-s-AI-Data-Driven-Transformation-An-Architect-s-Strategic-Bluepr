@@ -22,6 +22,14 @@
 
 - Regulatory Diversity: 100+ countries with varying data privacy and AI regulations
 
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0a3e6d9f-9f89-4390-a227-a4bbf6861b67" />
+
+![Image](https://github.com/user-attachments/assets/0a3e6d9f-9f89-4390-a227-a4bbf6861b67)
+
+![Image](https://github.com/user-attachments/assets/5a3d6419-e0a6-4952-a6a8-e739cfc62654)
+
+
 ```python
 LEFT SIDE: CURRENT STATE (2024)                     RIGHT SIDE: TARGET STATE (2027)
 ┌────────────────────────────────────────────┐     ┌────────────────────────────────────────────┐
@@ -30,19 +38,13 @@ LEFT SIDE: CURRENT STATE (2024)                     RIGHT SIDE: TARGET STATE (20
 │    • Basic Personalization (Dynamic Yield) │     │    • Predictive Kitchen Operations         │
 │    • Limited Edge AI (Pilot Programs)      │     │    • Full Edge AI Deployment               │
 │    • Manual Operations Dominant            │     │    • Autonomous Restaurant Elements        │
-│    • Fragmented Data Governance            │     │    • Integrated AI Governance              │
+│    • Fragmented Data Governance            │     │    • Integrated Data/AI Governance         │
 └────────────────────────────────────────────┘     └────────────────────────────────────────────┘
                         ▲                                        ▲
                         │                                        │
                         └────────── TRANSFORMATION ──────────────┘
                                  ARCHITECTURE ROADMAP
 ```
-
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0a3e6d9f-9f89-4390-a227-a4bbf6861b67" />
-
-![Image](https://github.com/user-attachments/assets/0a3e6d9f-9f89-4390-a227-a4bbf6861b67)
-
-![Image](https://github.com/user-attachments/assets/5a3d6419-e0a6-4952-a6a8-e739cfc62654)
 
 ### *Figure 1: McDonald's current and target AI/Data capability landscape*
 
