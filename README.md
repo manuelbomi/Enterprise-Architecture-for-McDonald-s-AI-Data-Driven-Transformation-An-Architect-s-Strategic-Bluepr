@@ -31,7 +31,7 @@
 
 
 ```python
-LEFT SIDE: CURRENT STATE (2024)                     RIGHT SIDE: TARGET STATE (2027)
+LEFT SIDE: CURRENT STATE (2026)                     RIGHT SIDE: TARGET STATE (2029)
 ┌────────────────────────────────────────────┐     ┌────────────────────────────────────────────┐
 │    CURRENT CAPABILITIES                    │     │    TARGET CAPABILITIES                     │
 │    • Silos: POS ≠ Mobile ≠ Supply Chain    │     │    • Unified Customer 360° View            │
