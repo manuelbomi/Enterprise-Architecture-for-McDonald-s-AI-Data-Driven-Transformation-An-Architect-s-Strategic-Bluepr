@@ -25,15 +25,10 @@
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a8c0b7f1-3386-4a05-8162-e88e5a157af6" />
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0a3e6d9f-9f89-4390-a227-a4bbf6861b67" />
-
-
-
-
-
 
 ```python
-LEFT SIDE: CURRENT STATE (2026)                     RIGHT SIDE: TARGET STATE (2029)
+
+               CURRENT STATE (2026)                             TARGET STATE (2029)
 ┌────────────────────────────────────────────┐     ┌────────────────────────────────────────────┐
 │    CURRENT CAPABILITIES                    │     │    TARGET CAPABILITIES                     │
 │    • Silos: POS ≠ Mobile ≠ Supply Chain    │     │    • Unified Customer 360° View            │
