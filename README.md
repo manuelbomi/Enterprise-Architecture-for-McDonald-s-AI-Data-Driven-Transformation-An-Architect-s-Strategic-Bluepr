@@ -313,7 +313,10 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
 
 ### 🍟 McDonald's Kitchen Automation Capability & GAP Analysis
 
-### Current vs Target State Comparison
+### <ins>Current vs Target State Comparison</kns>
+| | Current State | Target State | Gap |
+|-|---------------|--------------|-----|
+| **Maturity Score** | ⭐⭐🟊🟊🟊 (2.2/5.0) | ⭐⭐⭐⭐🟊 (4.5/5.0) | **2.3 points** |
 
 ### 🟥 <ins>Current State</ins> (2026) - Maturity: 2.2/5.0
 **Operational Characteristics:**
@@ -331,9 +334,7 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
 - **Dynamic Cooking:** Adaptive parameters for quality and speed
 - **Integrated Intelligence:** Unified kitchen operating system
 
-| | Current State | Target State | Gap |
-|-|---------------|--------------|-----|
-| **Maturity Score** | ⭐⭐🟊🟊🟊 (2.2/5.0) | ⭐⭐⭐⭐🟊 (4.5/5.0) | **2.3 points** |
+
 
 ###  <ins>Identified Capability Gaps</ins>
 
