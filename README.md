@@ -444,5 +444,7 @@ quadrantChart
 
 ### 4.1 Comparative Analysis for McDonald's Scale
 
+<img width="1400" height="700" alt="Image" src="https://github.com/user-attachments/assets/f813d631-eb49-4ebf-b0d9-46d0851ea6ea" />
+
 
 
