@@ -102,6 +102,49 @@ gantt
 | **🏛️ Governance**<br>• Fragmented Data Governance | | **🛡️ Mature Governance**<br>• Integrated AI Governance<br>• AI-First Restaurant Ops |
 
 
+# MCDONALD'S AI CAPABILITY ECOSYSTEM TRANSFORMATION
+
+## 🚀 The Journey: 2024 → 2027
+
+### 🟥 AS-IS (2024)
+**AI Capabilities:**
+- Dynamic Yield (Acquired)
+- Voice AI Pilots (10 markets)
+- Basic KDS Coordination
+
+**Infrastructure:**
+- IoT Sensor Experiments
+- Limited Edge Deployment
+
+**Governance:**
+- Fragmented Data Governance
+
+### 🔄 TRANSFORMATION PHASES
+
+**Phase 1: Foundation (2024-2025)**
+- Data Unification
+- Platform Standardization
+- Franchisee Onboarding
+
+**Phase 2: Scale (2025-2026)**
+- Global Rollout
+
+### 🟩 TO-BE (2027)
+**Unified AI Platform:**
+- Unified Personalization Engine
+- Global Voice AI Platform
+- Predictive Kitchen AI
+
+**Advanced Infrastructure:**
+- Autonomous Equipment
+- Full Edge AI Network
+- Real-time Everything
+
+**Mature Governance:**
+- Integrated AI Governance
+- AI-First Restaurant Ops
+
+
 
 
 ## 2. Integrating Business Capability Models with McDonald's Architecture
