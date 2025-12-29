@@ -38,7 +38,9 @@ LEFT SIDE: CURRENT STATE (2024)                     RIGHT SIDE: TARGET STATE (20
                                  ARCHITECTURE ROADMAP
 ```
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0a3e6d9f-9f89-4390-a227-a4bbf6861b67" />
 
+![Image](https://github.com/user-attachments/assets/0a3e6d9f-9f89-4390-a227-a4bbf6861b67)
 
 ![Image](https://github.com/user-attachments/assets/5a3d6419-e0a6-4952-a6a8-e739cfc62654)
 
