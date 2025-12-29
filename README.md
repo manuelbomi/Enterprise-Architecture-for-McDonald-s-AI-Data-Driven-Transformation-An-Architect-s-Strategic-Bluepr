@@ -179,5 +179,61 @@ timeline
 
 ```
 
+---
+
+### 2.2 ArchiMate EA Model for McDonald's Restaurant Technology Stack & Roadmap
+
+
+┌─────────────────────────────────────────────────────────┐
+│                    BUSINESS LAYER                       │
+│                                                         │
+│  ┌────────────────────────────────────────────────────┐ │
+│  │ Business Capabilities                              │ │
+│  │                                                    │ │
+│  │ • Hyper-Personalized Customer Experience           │ │
+│  │ • Optimized Kitchen Throughput                     │ │
+│  │ • Predictive Supply Chain Management               │ │
+│  │ • Automated Restaurant Operations                  │ │
+│  └────────────────────────────────────────────────────┘ │
+└───────────────▲──────────────────▲──────────────────────┘
+                │ realizes         │ realizes
+┌───────────────┴──────────────────┴──────────────────────┐
+│                  APPLICATION LAYER                      │
+│                                                         │
+│  ┌────────────────────────────────────────────────────┐ │
+│  │ Application Components                             │ │
+│  │                                                    │ │
+│  │ • Dynamic Menu Engine                              │ │
+│  │ • AI Drive-Thru Assistant                          │ │
+│  │ • Smart Kitchen Orchestrator                       │ │
+│  │ • Predictive Maintenance System                    │ │
+│  │ • Franchisee Performance Dashboard                 │ │
+│  └────────────────────────────────────────────────────┘ │
+└───────────────▲──────────────────▲──────────────────────┘
+                │ deployed on      │ uses
+┌───────────────┴──────────────────┴──────────────────────┐
+│                  TECHNOLOGY LAYER                       │
+│                                                         │
+│  ┌────────────────────────────────────────────────────┐ │
+│  │ Technology Services / Nodes                        │ │
+│  │                                                    │ │
+│  │ • Global Feature Store                             │ │
+│  │ • Edge AI Inference (GPU-Enabled)                  │ │
+│  │ • Real-time Data Pipeline (Kafka)                  │ │
+│  │ • Model Registry (MLflow)                          │ │
+│  │ • IoT Gateway                                      │ │
+│  └────────────────────────────────────────────────────┘ │
+└───────────────▲──────────────────▲──────────────────────┘
+                │ hosted on
+┌───────────────┴──────────────────────────────────────────┐
+│                    PHYSICAL LAYER                        │
+│                                                          │
+│  • Restaurant POS Systems                                │
+│  • Kitchen Automation Hardware                           │
+│  • Drive-Thru Sensors & Cameras                          │
+│  • Cloud Regions (GCP – per market)                      │
+└──────────────────────────────────────────────────────────┘
+
+
 
 
