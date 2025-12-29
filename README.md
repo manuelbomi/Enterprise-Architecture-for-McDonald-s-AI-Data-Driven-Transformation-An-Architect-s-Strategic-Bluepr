@@ -22,6 +22,8 @@
 
 - Regulatory Diversity: 100+ countries with varying data privacy and AI regulations
 
+<img width="512" height="341" alt="Image" src="https://github.com/user-attachments/assets/5a3d6419-e0a6-4952-a6a8-e739cfc62654" />
+
 
 ![Image](https://github.com/user-attachments/assets/cbc1f28f-d864-4453-8b70-f4b2de104f0c)
 
