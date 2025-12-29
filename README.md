@@ -64,22 +64,22 @@ gantt
     dateFormat  YYYY
     axisFormat  %Y
     
-    section Current State (2024)
-    Dynamic Yield (Acquired) :2024, 1y
-    Voice AI Pilots (10 markets) :2024, 1y
-    Basic KDS Coordination :2024, 1y
-    IoT Sensor Experiments :2024, 1y
-    Fragmented Data Governance :2024, 1y
-    Limited Edge Deployment :2024, 1y
+    section Current State (2026)
+    Dynamic Yield (Acquired) :2026, 1y
+    Voice AI Pilots (10 markets) :2026, 1y
+    Basic KDS Coordination :2026, 1y
+    IoT Sensor Experiments :2026, 1y
+    Fragmented Data Governance :2026, 1y
+    Limited Edge Deployment :2026, 1y
     
     section Transformation
-    Phase 1: Foundation :2024, 2y
-    Data Unification :milestone, 2024, 1d
-    Platform Standardization :milestone, 2024, 1d
-    Franchisee Onboarding :milestone, 2025, 1d
+    Phase 1: Foundation :2026, 2y
+    Data Unification :milestone, 2026, 1d
+    Platform Standardization :milestone, 2026, 1d
+    Franchisee Onboarding :milestone, 2026, 1d
     
-    Phase 2: Scale :2025, 2y
-    Global Rollout :milestone, 2026, 1d
+    Phase 2: Scale :2027, 2y
+    Global Rollout :milestone, 2027, 1d
     
     section Target State (2027)
     Unified Personalization Engine :2027, 1y
