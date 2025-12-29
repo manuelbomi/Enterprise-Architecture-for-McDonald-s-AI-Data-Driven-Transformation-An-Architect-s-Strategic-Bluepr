@@ -253,21 +253,7 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
 
 ---
 
-### 2.3 Zachman Framework Applied to McDonald's AI Systems
-
-## 2.3 Zachman Framework Applied to McDonald's AI Systems
-
-| Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
-|-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
-| Scope | Customer order patterns | Global personalization | 40,000+ restaurants | 2M employees | Real-time ops | $25B digital sales target |
-| Business | Menu item preferences | Dynamic pricing | Market clusters | Franchise owners | Peak hour optimization | 5% sales lift via personalization |
-| System | Feature vectors | Recommendation engine | Edge-cloud hybrid | Data scientists | <100ms latency | Technical feasibility |
-| Technology | TensorFlow models | Inference service | AWS SageMaker + Edge | ML engineers | Model retraining schedule | Cost/performance trade-off |
-| Detailed | Model weights | GPU kernel optimization | Restaurant LAN | DevOps team | Microsecond timing | Hardware constraints |
-
-
-
-## 2.3 Zachman Framework: McDonald's AI Systems Architecture
+### 2.3 Zachman Framework: McDonald's AI Systems Architecture
 
 | Zachman Perspective | Data (What)<br>*(AI/ML Context)* | Function (How)<br>*(AI/ML Context)* | Network (Where)<br>*(AI/ML Context)* | People (Who)<br>*(AI/ML Context)* | Time (When)<br>*(AI/ML Context)* | Motivation (Why)<br>*(AI/ML Context)* |
 |---------------------|-----------------------------------|-------------------------------------|--------------------------------------|-----------------------------------|----------------------------------|---------------------------------------|
