@@ -108,13 +108,7 @@ timeline
     2029 : Target State<br>• Unified Personalization Engine<br>• Global Voice AI Platform<br>• Full Edge AI Network
 ```
 
-# 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
 
-| 🟥 CURRENT STATE (2026) | 🔄 TRANSFORMATION (2026-2029) | 🟩 TARGET STATE (2029) |
-|------------------------|--------------------------------|-----------------------|
-| **🤖 AI Capabilities**<br>• Dynamic Yield Integration<br>• Voice AI in 30+ Markets<br>• Advanced KDS Coordination | **Phase 1: Global Foundation (2026-2027)**<br>🌐 Global Data Fabric<br>🔄 Unified AI Platform Standard<br>👥 80% Franchisee Integration | **🎯 Unified AI Platform**<br>• Unified Personalization Engine<br>• Global Voice AI Platform<br>• Predictive Kitchen AI |
-| **📡 Infrastructure**<br>• Production IoT Sensors<br>• Multi-Region Edge Deployment | **Phase 2: AI at Scale (2027-2028)**<br>🚀 Global Predictive Rollout<br>🤖 Full Autonomous Equipment Pilot | **⚡ Advanced Infrastructure**<br>• Autonomous Equipment Fleet<br>• Full Edge AI Network<br>• Real-time Everything |
-| **🏛️ Governance**<br>• Regional Data Governance | **Phase 3: Maturity (2028-2029)**<br>🛡️ AI Governance Harmonization<br>⚙️ Edge Network Optimization | **🛡️ Mature Governance**<br>• Integrated AI Governance<br>• AI-First Restaurant Ops |
 
 # 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
 
@@ -127,7 +121,7 @@ timeline
 | **2028** | **Scale** | • Global predictive AI rollout<br>• Autonomous equipment pilots<br>• AI governance framework harmonization | AI-driven operations at scale |
 | **2029** | **Target State** | • Unified personalization engine<br>• Full edge AI network deployment<br>• AI-first restaurant operations | Fully integrated, autonomous AI ecosystem |
 
-## 🎯 Target State (2029) Capabilities
+##  Target State (2029) Capabilities
 - **Unified Personalization Engine:** Real-time customer preference prediction
 - **Global Voice AI Platform:** Consistent multilingual customer experience
 - **Predictive Kitchen AI:** Proactive inventory and preparation optimization
@@ -135,45 +129,6 @@ timeline
 - **Integrated AI Governance:** Global compliance and ethics framework
 - **Full Edge AI Network:** Real-time processing in every restaurant
 - **AI-First Restaurant Ops:** Complete AI-driven operations lifecycle
-
-# 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
-
-```mermaid
-graph LR
-    A[2026<br>Current State] --> B[2027<br>Foundation Phase]
-    B --> C[2028<br>Scale Phase]
-    C --> D[2029<br>Target State]
-    
-    subgraph A [2026: Current State]
-        A1[Dynamic Yield<br>Integration]
-        A2[Voice AI<br>30+ Markets]
-        A3[Advanced KDS<br>Coordination]
-    end
-    
-    subgraph B [2027: Foundation Phase]
-        B1[Global Data<br>Fabric]
-        B2[Unified AI<br>Platform]
-        B3[80% Franchisee<br>Integration]
-    end
-    
-    subgraph C [2028: Scale Phase]
-        C1[Global Predictive<br>Rollout]
-        C2[Autonomous<br>Equipment Pilot]
-        C3[AI Governance<br>Harmonization]
-    end
-    
-    subgraph D [2029: Target State]
-        D1[Unified<br>Personalization]
-        D2[Global Voice<br>AI Platform]
-        D3[Full Edge<br>AI Network]
-        D4[AI-First<br>Restaurant Ops]
-    end
-    
-    style A fill:#ffcccc
-    style B fill:#ffffcc
-    style C fill:#ccffcc
-    style D fill:#ccffff
-```
 
 
 
