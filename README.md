@@ -448,7 +448,7 @@ quadrantChart
 
 ### 4.1 Comparative Analysis: McDonald's Current vs EA vs Industry's Best
 
-<img width="1400" height="700" alt="Image" src="https://github.com/user-attachments/assets/f813d631-eb49-4ebf-b0d9-46d0851ea6ea" 
+<img width="1400" height="700" alt="Image" src="https://github.com/user-attachments/assets/f813d631-eb49-4ebf-b0d9-46d0851ea6ea">
 
   *Figure 5: EA-guided approach impact analysis for McDonald's*
   
@@ -457,6 +457,15 @@ quadrantChart
 ### 4.2 Financial Impact Analysis for Data/AI/EA Adoption
 
 #### Three-Year ROI Projection (40,000 restaurants):
+
+| Investment Area | EA-Guided Approach | Current Trajectory | Delta | Rationale |
+|-----------------|--------------------|--------------------|-------|-----------|
+| Personalization ROI | $1.2B annual sales lift | $0.6B annual sales lift | +$0.6B | Unified customer view vs fragmented data |
+| Kitchen Efficiency | 15% food cost reduction | 5% reduction | +$0.9B | AI-optimized inventory vs basic systems |
+| Labor Optimization | 10% labor cost reduction | 2% reduction | +$0.4B | Predictive scheduling vs static schedules |
+| Implementation Cost | $2.1B total investment | $1.8B investment | -$0.3B | Strategic platform vs point solutions |
+| Technical Debt | $0.2B annual maintenance | $0.5B annual maintenance | +$0.3B | Standardized architecture vs siloed systems |
+| 3-Year Net Value | +$3.1B | +$0.9B | +$2.2B | EA advantage |
 
 
 
