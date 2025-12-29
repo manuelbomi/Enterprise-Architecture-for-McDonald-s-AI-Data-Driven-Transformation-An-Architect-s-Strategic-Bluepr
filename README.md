@@ -55,6 +55,23 @@ LEFT SIDE: CURRENT STATE (2026)                     RIGHT SIDE: TARGET STATE (20
 
 ### *Figure 2: McDonald's target AI/Data capability landscape*
 
+graph LR
+    subgraph "Current State (2026)"
+        A[Data Silos] --> B[Basic Personalization]
+        C[Limited Edge AI] --> D[Manual Operations]
+        E[Fragmented Governance] --> F[Pilot Programs]
+    end
+    
+    subgraph "Target State (2029)"
+        G[Unified Data Platform] --> H[Predictive Everything]
+        I[Full Edge AI] --> J[Autonomous Ops]
+        K[Integrated Governance] --> L[Scaled AI Factory]
+    end
+    
+    B -.->|Roadmap| H
+    D -.->|Transformation| J
+    F -.->|Architecture| L
+
 
 # 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
 
