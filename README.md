@@ -51,6 +51,10 @@ LEFT SIDE: CURRENT STATE (2024)                     RIGHT SIDE: TARGET STATE (20
 
 ### *Figure 1: McDonald's current and target AI/Data capability landscape*
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/dce84e92-a277-43be-a945-8c82256e9c35" />
+
+### *Figure 2: McDonald's target AI/Data capability landscape*
+
 ---
 
 
