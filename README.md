@@ -46,6 +46,9 @@ LEFT SIDE: CURRENT STATE (2024)                     RIGHT SIDE: TARGET STATE (20
                                  ARCHITECTURE ROADMAP
 ```
 
+<img width="3203" height="2366" alt="Image" src="https://github.com/user-attachments/assets/fa2dfb17-9309-4995-b827-39a3924e87ca" />
+
+
 ### *Figure 1: McDonald's current and target AI/Data capability landscape*
 
 ---
