@@ -251,6 +251,76 @@ timeline
 ````
 Figure 3: ArchiMate layered architecture showing McDonald's technology stack from business capabilities to physical implementation*
 
+---
+
+### 2.3 Zachman Framework Applied to McDonald's AI Systems
+
+## 2.3 Zachman Framework Applied to McDonald's AI Systems
+
+| Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
+|-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
+| Scope | Customer order patterns | Global personalization | 40,000+ restaurants | 2M employees | Real-time ops | $25B digital sales target |
+| Business | Menu item preferences | Dynamic pricing | Market clusters | Franchise owners | Peak hour optimization | 5% sales lift via personalization |
+| System | Feature vectors | Recommendation engine | Edge-cloud hybrid | Data scientists | <100ms latency | Technical feasibility |
+| Technology | TensorFlow models | Inference service | AWS SageMaker + Edge | ML engineers | Model retraining schedule | Cost/performance trade-off |
+| Detailed | Model weights | GPU kernel optimization | Restaurant LAN | DevOps team | Microsecond timing | Hardware constraints |
+
+
+
+## 2.3 Zachman Framework: McDonald's AI Systems Architecture
+
+| Zachman Perspective | Data (What)<br>*(AI/ML Context)* | Function (How)<br>*(AI/ML Context)* | Network (Where)<br>*(AI/ML Context)* | People (Who)<br>*(AI/ML Context)* | Time (When)<br>*(AI/ML Context)* | Motivation (Why)<br>*(AI/ML Context)* |
+|---------------------|-----------------------------------|-------------------------------------|--------------------------------------|-----------------------------------|----------------------------------|---------------------------------------|
+| **Scope (Planner)** | Customer order patterns,<br>preference data | Global personalization<br>strategy | 40,000+ restaurants<br>worldwide | 2M+ employees | Real-time operations | $25B digital sales<br>target by 2029 |
+| **Business (Owner)** | Menu item preferences,<br>regional taste data | Dynamic pricing,<br>inventory optimization | Market clusters<br>(regional hubs) | Franchise owners,<br>regional managers | Peak hour optimization | 5% sales lift via<br>personalization |
+| **System (Designer)** | Feature vectors,<br>training datasets | Recommendation engine,<br>prediction models | Edge-cloud hybrid<br>architecture | Data scientists,<br>AI researchers | <100ms inference<br>latency | Technical feasibility<br>and scalability |
+| **Technology (Builder)** | TensorFlow/PyTorch<br>models, parameters | Inference services,<br>model serving | AWS SageMaker +<br>Edge devices | ML engineers,<br>MLOps specialists | Model retraining<br>schedule (weekly) | Cost/performance<br>trade-off optimization |
+| **Detailed (Subcontractor)** | Model weights,<br>quantized binaries | GPU kernel optimization,<br>neural network ops | Restaurant LAN,<br>WiFi 6/7 networks | DevOps team,<br>system administrators | Microsecond timing<br>for inference | Hardware constraints<br>and optimization |
+
+# 🍟 McDonald's AI Systems: Zachman Framework Analysis
+
+## 2.3 Architecture Framework Mapping
+
+| Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
+|-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
+| **Scope**<br>*(Executive View)* | • Customer purchase history<br>• Seasonal preference data<br>• Regional menu variations | • Global personalization engine<br>• Cross-market recommendation system | • 40,000+ global restaurants<br>• Mobile app (70M+ users)<br>• Drive-thru systems | • 2M+ crew members<br>• Corporate leadership<br>• Global customers | • Real-time recommendations<br>• 24/7 operations | • $25B digital sales target<br>• 30% digital revenue growth<br>• Enhanced customer experience |
+| **Business**<br>*(Owner View)* | • Menu engineering data<br>• Price elasticity models<br>• Regional demand patterns | • Dynamic pricing algorithms<br>• Inventory prediction<br>• Kitchen load balancing | • Regional market clusters<br>• Supply chain networks<br>• Franchisee ecosystems | • Franchise owners (2,000+)<br>• Regional managers<br>• Marketing teams | • Peak hour optimization<br>• Seasonal campaign timing<br>• Supply chain cycles | • 5% sales lift via personalization<br>• 15% waste reduction<br>• 20% faster service times |
+| **System**<br>*(Designer View)* | • Feature vectors (200+ features)<br>• Training datasets (PB-scale)<br>• Real-time streaming data | • Neural recommendation engine<br>• Real-time prediction service<br>• A/B testing framework | • Edge-cloud hybrid architecture<br>• Multi-region AWS deployment<br>• CDN for global latency | • Data scientists (100+)<br>• AI researchers<br>• Product managers | • <100ms inference latency<br>• Daily model updates<br>• Real-time feedback loops | • 99.9% system availability<br>• Scalable to 10K QPS<br>• <1% error rate |
+| **Technology**<br>*(Builder View)* | • TensorFlow SavedModels<br>• PyTorch checkpoints<br>• ONNX format models | • TensorFlow Serving<br>• NVIDIA Triton inference<br>• Redis caching layer | • AWS SageMaker endpoints<br>• NVIDIA Jetson edge devices<br>• 5G mobile networks | • ML engineers<br>• MLOps specialists<br>• Cloud architects | • Weekly model retraining<br>• Continuous deployment<br>• Rolling updates | • $0.001 per inference cost<br>• 95% GPU utilization<br>• 50% energy efficiency |
+| **Detailed**<br>*(Implementer View)* | • Quantized INT8 models<br>• Pruned network weights<br>• Model binaries | • CUDA kernel optimization<br>• TensorRT acceleration<br>• Memory optimization | • Restaurant WiFi 6 networks<br>• Local GPU servers<br>• Edge compute nodes | • DevOps engineers<br>• System administrators<br>• Field technicians | • Microsecond inference<br>• Sub-millisecond I/O<br>• Nanosecond tensor ops | • Hardware thermal limits<br>• Power consumption constraints<br>• Physical space limitations |
+
+
+## 2.3 Zachman Framework: McDonald's AI Systems
+
+| Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
+|-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
+| Scope | Customer order patterns | Global personalization | 40K+ restaurants | 2M employees | Real-time | $25B digital sales |
+| Business | Menu preferences | Dynamic pricing | Market clusters | Franchise owners | Peak hours | 5% sales lift |
+| System | Feature vectors | Recommendation engine | Edge-cloud hybrid | Data scientists | <100ms | Technical feasibility |
+| Technology | TensorFlow models | Inference service | AWS + Edge | ML engineers | Retraining schedule | Cost/performance |
+| Detailed | Model weights | GPU optimization | Restaurant LAN | DevOps team | Microsecond | Hardware limits |
+
+# McDonald's AI Systems Architecture
+
+## 2.3 Zachman Framework Analysis
+
+### Comprehensive Architecture View
+
+| Zachman Row | Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
+|-------------|-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
+| **Row 1** | Scope (Planner) | Customer behavioral data | Global AI personalization | Worldwide restaurant network | Global workforce | Real-time operations | Digital transformation goals |
+| **Row 2** | Business (Owner) | Business intelligence data | Revenue optimization systems | Regional market infrastructure | Business stakeholders | Business cycles | Profitability and growth |
+| **Row 3** | System (Designer) | ML training datasets | AI/ML platform services | Technical infrastructure | Technical teams | System SLAs | Technical requirements |
+| **Row 4** | Technology (Builder) | ML models and artifacts | Technical implementation | Cloud/edge platforms | Engineering teams | Development cycles | Technical constraints |
+| **Row 5** | Detailed (Subcontractor) | Deployable binaries | Low-level optimization | Physical deployment | Operations teams | Runtime performance | Physical constraints |
+
+### McDonald's Specific Implementation
+- **Scope Level:** Aligns with 2029 $25B digital sales target
+- **Business Level:** Supports franchisee business models
+- **System Level:** Enables <100ms customer recommendations
+- **Technology Level:** Uses AWS SageMaker + edge computing
+- **Detailed Level:** Optimized for restaurant hardware constraints
+
 
 
 
