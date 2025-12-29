@@ -56,76 +56,123 @@ LEFT SIDE: CURRENT STATE (2024)                     RIGHT SIDE: TARGET STATE (20
 ### *Figure 2: McDonald's target AI/Data capability landscape*
 
 
-### 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
+# 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
 
 ```mermaid
 gantt
-    title McDonald's AI Transformation Roadmap
+    title McDonald's AI Transformation Roadmap 2026-2029
     dateFormat  YYYY
     axisFormat  %Y
     
     section Current State (2026)
-    Dynamic Yield (Acquired) :2026, 1y
-    Voice AI Pilots (10 markets) :2026, 1y
-    Basic KDS Coordination :2026, 1y
-    IoT Sensor Experiments :2026, 1y
-    Fragmented Data Governance :2026, 1y
-    Limited Edge Deployment :2026, 1y
+    Dynamic Yield Integration :2026, 1y
+    Voice AI in 30+ Markets :2026, 1y
+    Advanced KDS Coordination :2026, 1y
+    Production IoT Sensors :2026, 1y
+    Regional Data Governance :2026, 1y
+    Multi-Region Edge Deployment :2026, 1y
     
     section Transformation
-    Phase 1: Foundation :2027, 2y
-    Data Unification :milestone, 2027, 1d
-    Platform Standardization :milestone, 2027, 1d
-    Franchisee Onboarding :milestone, 2027, 1d
+    Phase 1: Global Foundation :2026, 1.5y
+    Global Data Fabric :milestone, 2026, 1d
+    Unified AI Platform Standard :milestone, 2027, 1d
+    80% Franchisee Integration :milestone, 2027, 1d
     
-    Phase 2: Scale :2029, 2y
-    Global Rollout :milestone, 2029, 1d
+    Phase 2: AI at Scale :2027, 1.5y
+    Global Predictive Rollout :milestone, 2028, 1d
+    Full Autonomous Equipment Pilot :milestone, 2028, 1d
+    
+    Phase 3: Maturity :2028, 1y
+    AI Governance Harmonization :milestone, 2028, 1d
+    Edge Network Optimization :milestone, 2029, 1d
     
     section Target State (2029)
     Unified Personalization Engine :2029, 1y
     Global Voice AI Platform :2029, 1y
     Predictive Kitchen AI :2029, 1y
-    Autonomous Equipment :2029, 1y
+    Autonomous Equipment Fleet :2029, 1y
     Integrated AI Governance :2029, 1y
     Full Edge AI Network :2029, 1y
     Real-time Everything :2029, 1y
     AI-First Restaurant Ops :2029, 1y
 ```
 
-# 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2024 → 2027
+# 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
 
 ```mermaid
-gantt
-    title McDonald's AI Transformation Roadmap
-    dateFormat  YYYY
-    axisFormat  %Y
+timeline
+    title McDonald's AI Transformation Journey
+    2026 : Current State<br>• Dynamic Yield Integration<br>• Voice AI in 30+ Markets<br>• Advanced KDS Coordination
+    2027 : Foundation Phase<br>• Global Data Fabric<br>• Unified AI Platform Standard<br>• 80% Franchisee Integration
+    2028 : Scaling Phase<br>• Global Predictive Rollout<br>• Autonomous Equipment Pilot<br>• AI Governance Harmonization
+    2029 : Target State<br>• Unified Personalization Engine<br>• Global Voice AI Platform<br>• Full Edge AI Network
+```
+
+# 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
+
+| 🟥 CURRENT STATE (2026) | 🔄 TRANSFORMATION (2026-2029) | 🟩 TARGET STATE (2029) |
+|------------------------|--------------------------------|-----------------------|
+| **🤖 AI Capabilities**<br>• Dynamic Yield Integration<br>• Voice AI in 30+ Markets<br>• Advanced KDS Coordination | **Phase 1: Global Foundation (2026-2027)**<br>🌐 Global Data Fabric<br>🔄 Unified AI Platform Standard<br>👥 80% Franchisee Integration | **🎯 Unified AI Platform**<br>• Unified Personalization Engine<br>• Global Voice AI Platform<br>• Predictive Kitchen AI |
+| **📡 Infrastructure**<br>• Production IoT Sensors<br>• Multi-Region Edge Deployment | **Phase 2: AI at Scale (2027-2028)**<br>🚀 Global Predictive Rollout<br>🤖 Full Autonomous Equipment Pilot | **⚡ Advanced Infrastructure**<br>• Autonomous Equipment Fleet<br>• Full Edge AI Network<br>• Real-time Everything |
+| **🏛️ Governance**<br>• Regional Data Governance | **Phase 3: Maturity (2028-2029)**<br>🛡️ AI Governance Harmonization<br>⚙️ Edge Network Optimization | **🛡️ Mature Governance**<br>• Integrated AI Governance<br>• AI-First Restaurant Ops |
+
+# 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
+
+## 📅 Transformation Timeline
+
+| Year | Phase | Key Initiatives | Expected Outcomes |
+|------|-------|-----------------|-------------------|
+| **2026** | **Current State** | • Dynamic Yield fully integrated<br>• Voice AI expanded to 30+ markets<br>• Production IoT sensors deployed<br>• Regional edge computing established | Foundation for global AI expansion |
+| **2027** | **Foundation** | • Global data fabric implementation<br>• Unified AI platform standardization<br>• 80% franchisee system integration | Single source of truth, standardized platforms |
+| **2028** | **Scale** | • Global predictive AI rollout<br>• Autonomous equipment pilots<br>• AI governance framework harmonization | AI-driven operations at scale |
+| **2029** | **Target State** | • Unified personalization engine<br>• Full edge AI network deployment<br>• AI-first restaurant operations | Fully integrated, autonomous AI ecosystem |
+
+## 🎯 Target State (2029) Capabilities
+- **Unified Personalization Engine:** Real-time customer preference prediction
+- **Global Voice AI Platform:** Consistent multilingual customer experience
+- **Predictive Kitchen AI:** Proactive inventory and preparation optimization
+- **Autonomous Equipment Fleet:** Self-optimizing kitchen equipment
+- **Integrated AI Governance:** Global compliance and ethics framework
+- **Full Edge AI Network:** Real-time processing in every restaurant
+- **AI-First Restaurant Ops:** Complete AI-driven operations lifecycle
+
+# 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
+
+```mermaid
+graph LR
+    A[2026<br>Current State] --> B[2027<br>Foundation Phase]
+    B --> C[2028<br>Scale Phase]
+    C --> D[2029<br>Target State]
     
-    section Current State (2024)
-    Dynamic Yield (Acquired) :2024, 1y
-    Voice AI Pilots (10 markets) :2024, 1y
-    Basic KDS Coordination :2024, 1y
-    IoT Sensor Experiments :2024, 1y
-    Fragmented Data Governance :2024, 1y
-    Limited Edge Deployment :2024, 1y
+    subgraph A [2026: Current State]
+        A1[Dynamic Yield<br>Integration]
+        A2[Voice AI<br>30+ Markets]
+        A3[Advanced KDS<br>Coordination]
+    end
     
-    section Transformation
-    Phase 1: Foundation :2024, 2y
-    Data Unification :milestone, 2024, 1d
-    Platform Standardization :milestone, 2024, 1d
-    Franchisee Onboarding :milestone, 2025, 1d
+    subgraph B [2027: Foundation Phase]
+        B1[Global Data<br>Fabric]
+        B2[Unified AI<br>Platform]
+        B3[80% Franchisee<br>Integration]
+    end
     
-    Phase 2: Scale :2025, 2y
-    Global Rollout :milestone, 2026, 1d
+    subgraph C [2028: Scale Phase]
+        C1[Global Predictive<br>Rollout]
+        C2[Autonomous<br>Equipment Pilot]
+        C3[AI Governance<br>Harmonization]
+    end
     
-    section Target State (2027)
-    Unified Personalization Engine :2027, 1y
-    Global Voice AI Platform :2027, 1y
-    Predictive Kitchen AI :2027, 1y
-    Autonomous Equipment :2027, 1y
-    Integrated AI Governance :2027, 1y
-    Full Edge AI Network :2027, 1y
-    Real-time Everything :2027, 1y
-    AI-First Restaurant Ops :2027, 1y
+    subgraph D [2029: Target State]
+        D1[Unified<br>Personalization]
+        D2[Global Voice<br>AI Platform]
+        D3[Full Edge<br>AI Network]
+        D4[AI-First<br>Restaurant Ops]
+    end
+    
+    style A fill:#ffcccc
+    style B fill:#ffffcc
+    style C fill:#ccffcc
+    style D fill:#ccffff
 ```
 
 
