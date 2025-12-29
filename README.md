@@ -319,89 +319,14 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
  *Figure 4: McDonald's-specific AI capability assessment & Gap Analysis*
 
 
-### 🍟 MCDONALD'S GAP ANALYSIS - Kitchen Automation Capability
+### 🍟 MCDONALD'S Kitchen Automation Capability & GAP Analysis
 
-###  Capability Assessment
+### Current vs Target State Comparison
+
 | | Current State | Target State | Gap |
 |-|---------------|--------------|-----|
 | **Maturity Score** | ⭐⭐🟊🟊🟊 (2.2/5.0) | ⭐⭐⭐⭐🟊 (4.5/5.0) | **2.3 points** |
 
-###  State Comparison
-| 🟥 CURRENT STATE (2026) | 🟩 TARGET STATE (2029) |
-|-------------------------|------------------------|
-| • Basic KDS coordination | • AI-optimized preparation schedule |
-| • Manual equipment monitoring | • Predictive maintenance alerts |
-| • Reactive waste management | • AI-driven waste reduction |
-| • Standardized cooking times | • Dynamic cooking parameters |
-| • Isolated kitchen systems | • Integrated kitchen intelligence |
-
-## 📋 Identified Capability Gaps
-1. **Sensor Infrastructure:** Real-time ingredient tracking sensors
-2. **Quality Assurance:** Computer vision for food quality monitoring
-3. **Demand Prediction:** ML models for accurate demand forecasting
-4. **Integration Platform:** Unified IoT device management platform
-5. **Edge Computing:** AI infrastructure deployment at restaurants
-
-## 💰 Investment & ROI
-- **Investment Required:** $3.2M per 1,000 restaurants
-- **Expected ROI (3 Years):**
-  - **15% reduction** in food costs
-  - **20% increase** in kitchen throughput
-  - **30% reduction** in food waste
-  - **25% improvement** in order accuracy
-
-
-### 🍟 MCDONALD'S GAP ANALYSIS - Kitchen Automation Capability
-
-```mermaid
-quadrantChart
-    title McDonald's Kitchen Automation Capability Gaps
-    x-axis "Current Maturity" --> "Target Maturity"
-    y-axis "Technology Complexity" --> "Business Impact"
-    
-    quadrant-1 "Quick Wins"
-    quadrant-2 "Strategic Initiatives"
-    quadrant-3 "Foundation Work"
-    quadrant-4 "Major Projects"
-    
-    "KDS Coordination": [0.2, 0.3]
-    "Equipment Monitoring": [0.1, 0.4]
-    "Waste Management": [0.3, 0.6]
-    "Cooking Optimization": [0.6, 0.8]
-    "Kitchen Integration": [0.8, 0.9]
-    
-    "Target State": [0.9, 0.9]
-```
-
-## 📊 Gap Analysis Details
-
-| Capability Area | Current State | Target State | Gap Size |
-|-----------------|---------------|--------------|----------|
-| **KDS Integration** | Basic coordination | AI-optimized scheduling | Large |
-| **Equipment Management** | Manual monitoring | Predictive maintenance | Medium |
-| **Waste Control** | Reactive processes | AI-driven reduction | Large |
-| **Cooking Processes** | Standardized times | Dynamic parameters | Medium |
-| **System Integration** | Isolated systems | Intelligent integration | Large |
-
-## 🎯 Priority Gaps to Address
-1. **IoT Sensors** ($1.2M): Real-time ingredient tracking
-2. **Computer Vision** ($0.8M): Automated quality control
-3. **ML Forecasting** ($0.5M): Demand prediction models
-4. **Integration Platform** ($0.4M): Unified IoT management
-5. **Edge AI** ($0.3M): Restaurant-level processing
-
-## 📈 Business Case
-- **Total Investment:** $3.2M per 1,000 restaurants
-- **Annual Savings:** $4.8M (15% food cost reduction)
-- **Throughput Gain:** 20% increased capacity
-- **Payback Period:** 8 months
-- **3-Year ROI:** 450%
-
-
-
-# MCDONALD'S KITCHEN AUTOMATION CAPABILITY GAP ANALYSIS
-
-## 🎯 Current vs Target State Comparison
 
 ### 🟥 CURRENT STATE (2026) - Maturity: 2.2/5.0
 **Operational Characteristics:**
@@ -419,7 +344,7 @@ quadrantChart
 - **Dynamic Cooking:** Adaptive parameters for quality and speed
 - **Integrated Intelligence:** Unified kitchen operating system
 
-## 🔍 IDENTIFIED CAPABILITY GAPS
+###  <ins>Identified Capability Gaps</ins>
 
 ### 1. Real-time Ingredient Tracking Sensors
 - **Gap:** Lack of IoT sensors for ingredient usage monitoring
@@ -446,7 +371,27 @@ quadrantChart
 - **Impact:** Cloud dependency, latency in real-time decisions
 - **Solution:** Edge computing nodes with GPU acceleration
 
-## 💰 INVESTMENT & ROI ANALYSIS
+```mermaid
+quadrantChart
+    title McDonald's Kitchen Automation Capability Gaps
+    x-axis "Current Maturity" --> "Target Maturity"
+    y-axis "Technology Complexity" --> "Business Impact"
+    
+    quadrant-1 "Quick Wins"
+    quadrant-2 "Strategic Initiatives"
+    quadrant-3 "Foundation Work"
+    quadrant-4 "Major Projects"
+    
+    "KDS Coordination": [0.2, 0.3]
+    "Equipment Monitoring": [0.1, 0.4]
+    "Waste Management": [0.3, 0.6]
+    "Cooking Optimization": [0.6, 0.8]
+    "Kitchen Integration": [0.8, 0.9]
+    
+    "Target State": [0.9, 0.9]
+```
+
+### 💰 <ins>Investment & ROI Analysis</ins>
 
 ### Financial Summary
 | Metric | Value | Calculation |
@@ -460,11 +405,20 @@ quadrantChart
 | **Payback Period** | 2.4 months | Investment ÷ Monthly savings |
 | **3-Year ROI** | 4,400% | (3-year savings - investment) ÷ investment |
 
+### Investment & ROI Summary
+- **Investment Required:** $3.2M per 1,000 restaurants
+- **Expected ROI (3 Years):**
+  - **15% reduction** in food costs
+  - **20% increase** in kitchen throughput
+  - **30% reduction** in food waste
+  - **25% improvement** in order accuracy
+
 ### Implementation Timeline
 - **Phase 1 (6 months):** IoT sensors + integration platform
 - **Phase 2 (6 months):** Computer vision + edge infrastructure
 - **Phase 3 (12 months):** ML models + full integration
 - **Phase 4 (12 months):** Optimization + scaling
+- 
 
 
 
