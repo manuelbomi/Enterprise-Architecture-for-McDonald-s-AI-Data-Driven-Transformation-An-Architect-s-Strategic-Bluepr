@@ -55,14 +55,53 @@ LEFT SIDE: CURRENT STATE (2024)                     RIGHT SIDE: TARGET STATE (20
 
 ### *Figure 2: McDonald's target AI/Data capability landscape*
 
----
+```python
+# MCDONALD'S AI CAPABILITY ECOSYSTEM 2024 → 2027
+
+```mermaid
+gantt
+    title McDonald's AI Transformation Roadmap
+    dateFormat  YYYY
+    axisFormat  %Y
+    
+    section Current State (2024)
+    Dynamic Yield (Acquired) :2024, 1y
+    Voice AI Pilots (10 markets) :2024, 1y
+    Basic KDS Coordination :2024, 1y
+    IoT Sensor Experiments :2024, 1y
+    Fragmented Data Governance :2024, 1y
+    Limited Edge Deployment :2024, 1y
+    
+    section Transformation
+    Phase 1: Foundation :2024, 2y
+    Data Unification :milestone, 2024, 1d
+    Platform Standardization :milestone, 2024, 1d
+    Franchisee Onboarding :milestone, 2025, 1d
+    
+    Phase 2: Scale :2025, 2y
+    Global Rollout :milestone, 2026, 1d
+    
+    section Target State (2027)
+    Unified Personalization Engine :2027, 1y
+    Global Voice AI Platform :2027, 1y
+    Predictive Kitchen AI :2027, 1y
+    Autonomous Equipment :2027, 1y
+    Integrated AI Governance :2027, 1y
+    Full Edge AI Network :2027, 1y
+    Real-time Everything :2027, 1y
+    AI-First Restaurant Ops :2027, 1y
+```
+
+```
 
 
 ## 2. Integrating Business Capability Models with McDonald's Architecture
-For McDonald's global scale and franchise-based operational model, traditional enterprise architecture frameworks require significant adaptation. The integration of business capability models with McDonald's architecture must address the unique tension between centralized efficiency and local autonomy, while enabling scalable AI deployment across 40,000+ diverse locations.
 
-2.1 McDonald's-Specific TOGAF ADM Adaptation
-McDonald's requires a modified TOGAF Architecture Development Method (ADM) that incorporates franchisee engagement cycles and market-specific compliance checkpoints. This adaptation transforms the standard ADM into a federated architecture approach, where global AI platforms support local customization while maintaining core governance standards across all markets.
+##### For McDonald's global scale and franchise-based operational model, traditional enterprise architecture frameworks require significant adaptation. The integration of business capability models with McDonald's architecture must address the unique tension between centralized efficiency and local autonomy, while enabling scalable AI deployment across 40,000+ diverse locations.
+
+### 2.1 McDonald's-Specific TOGAF ADM Adaptation
+
+##### McDonald's requires a modified TOGAF Architecture Development Method (ADM) that incorporates franchisee engagement cycles and market-specific compliance checkpoints. This adaptation transforms the standard ADM into a federated architecture approach, where global AI platforms support local customization while maintaining core governance standards across all markets.
 
 
 
