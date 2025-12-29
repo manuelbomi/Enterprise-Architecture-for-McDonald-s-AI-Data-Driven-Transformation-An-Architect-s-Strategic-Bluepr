@@ -145,7 +145,37 @@ timeline
 
 ##### McDonald's requires a modified TOGAF Architecture Development Method (ADM) that incorporates franchisee engagement cycles and market-specific compliance checkpoints. This adaptation transforms the standard ADM into a federated architecture approach, where global AI platforms support local customization while maintaining core governance standards across all markets.
 
-<img width="1183" height="4110" alt="Image" src="https://github.com/user-attachments/assets/ac81f5b3-fe44-4fc6-995e-45bf409ea3b3" />
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                       🍟  TOGAF ADM for McDonald's AI                       │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐          │
+│  │  Preliminary:   │    │   **Phase A**:       │    │  Phase B:       │          │
+│  │  Digital Vision │────▶│  Architecture   │────▶│  Business    │          │
+│  │  & Strategy     │    │  Vision         │    │  Architecture   │          │
+│  │                 │    │  QSR AI         │    │  Restaurant Ops │          │
+│  │                 │    │  Business Case  │    │  Capabilities   │          │
+│  └─────────────────┘    └─────────────────┘    └─────────────────┘          │
+│                                                                             │
+│  ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐          │
+│  │  Phase C:       │    │  Phase D:       │    │  Phase E:       │        │
+│  │  Information    │────▶│  Technology     │────▶│  Opportunities │        │
+│  │  Systems        │    │  Architecture   │    │  & Solutions    │        │
+│  │  Global Data    │    │  Edge AI        │    │  Kitchen        │        │
+│  │  Lake           │    │  Platform       │    │  Automation     │        │
+│  └─────────────────┘    └─────────────────┘    └─────────────────┘        │
+│                                                                             │
+│  ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐        │
+│  │  Phase F:       │    │  Phase G:       │    │  Phase H:       │        │
+│  │  Migration      │────▶│  Implementation │────▶│  Architecture  │────────┘
+│  │  Planning       │    │  Model          │    │  Change         │
+│  │  Franchisee     │    │  Deployment to  │    │  Continuous     │
+│  │  Rollout        │    │  40K Locations  │    │  Menu Optimiz.  │
+│  └─────────────────┘    └─────────────────┘    └─────────────────┘        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 
 
 
