@@ -93,6 +93,15 @@ gantt
 ```
 
 
+# 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2024 → 2027
+
+| 🟥 CURRENT STATE (2024) | 🔄 TRANSFORMATION | 🟩 TARGET STATE (2027) |
+|------------------------|------------------|-----------------------|
+| **🤖 AI Capabilities**<br>• Dynamic Yield (Acquired)<br>• Voice AI Pilots (10 markets)<br>• Basic KDS Coordination | **Phase 1: Foundation** (2024-2025)<br>📊 Data Unification<br>🔄 Platform Standardization<br>👥 Franchisee Onboarding | **🎯 Unified AI Platform**<br>• Unified Personalization Engine<br>• Global Voice AI Platform<br>• Predictive Kitchen AI |
+| **📡 Infrastructure**<br>• IoT Sensor Experiments<br>• Limited Edge Deployment | **Phase 2: Scale** (2025-2026)<br>🌍 Global Rollout | **⚡ Advanced Infrastructure**<br>• Autonomous Equipment<br>• Full Edge AI Network<br>• Real-time Everything |
+| **🏛️ Governance**<br>• Fragmented Data Governance | | **🛡️ Mature Governance**<br>• Integrated AI Governance<br>• AI-First Restaurant Ops |
+
+
 
 
 ## 2. Integrating Business Capability Models with McDonald's Architecture
