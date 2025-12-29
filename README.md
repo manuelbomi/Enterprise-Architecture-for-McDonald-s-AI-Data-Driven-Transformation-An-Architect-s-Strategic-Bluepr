@@ -246,9 +246,8 @@ timeline
 │          ◉ Physical Device   ───▶ realizes          ───▶ deployed on      │
 └────────────────────────────────────────────────────────────────────────────┘
 
-Figure: ArchiMate layered architecture showing McDonald's technology stack from business capabilities to physical implementation
-
 ````
+Figure: ArchiMate layered architecture showing McDonald's technology stack from business capabilities to physical implementation
 
 
 
