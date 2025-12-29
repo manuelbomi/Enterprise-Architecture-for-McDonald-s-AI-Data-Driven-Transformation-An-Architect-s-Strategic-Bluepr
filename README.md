@@ -146,7 +146,7 @@ timeline
 ##### McDonald's requires a modified TOGAF Architecture Development Method (ADM) that incorporates franchisee engagement cycles and market-specific compliance checkpoints. This adaptation transforms the standard ADM into a federated architecture approach, where global AI platforms support local customization while maintaining core governance standards across all markets.
 
 
-
+```python
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                       🍟  TOGAF ADM for McDonald's AI                       │
 ├─────────────────────────────────────────────────────────────────────────────┤
@@ -176,6 +176,8 @@ timeline
 │  └─────────────────┘    └─────────────────┘    └─────────────────┘        │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
+
+```
 
 
 
