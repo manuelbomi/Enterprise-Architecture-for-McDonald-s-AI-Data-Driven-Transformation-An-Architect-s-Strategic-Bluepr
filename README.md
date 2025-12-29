@@ -1,1 +1,3 @@
-# Enterprise-Architecture-for-McDonald-s-AI-Data-Driven-Transformation-An-Architect-s-Strategic-Bluepr
+# Enterprise Architecture for McDonald's AI & Data-Driven Transformation: A Principal Architect's Strategic Blueprint
+
+## Executive Summary
