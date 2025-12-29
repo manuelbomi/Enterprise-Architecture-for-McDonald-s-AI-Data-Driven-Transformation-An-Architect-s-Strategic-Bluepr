@@ -78,18 +78,18 @@ gantt
     Platform Standardization :milestone, 2027, 1d
     Franchisee Onboarding :milestone, 2027, 1d
     
-    Phase 2: Scale :2028, 2y
-    Global Rollout :milestone, 2028-2029, 1d
+    Phase 2: Scale :2029, 2y
+    Global Rollout :milestone, 2029, 1d
     
-    section Target State (2028-2029)
-    Unified Personalization Engine :2028, 1y
-    Global Voice AI Platform :2028, 1y
-    Predictive Kitchen AI :2028, 1y
-    Autonomous Equipment :2028, 1y
-    Integrated AI Governance :2028, 1y
-    Full Edge AI Network :2028, 1y
-    Real-time Everything :2028, 1y
-    AI-First Restaurant Ops :2028, 1y
+    section Target State (2029)
+    Unified Personalization Engine :2029, 1y
+    Global Voice AI Platform :2029, 1y
+    Predictive Kitchen AI :2029, 1y
+    Autonomous Equipment :2029, 1y
+    Integrated AI Governance :2029, 1y
+    Full Edge AI Network :2029, 1y
+    Real-time Everything :2029, 1y
+    AI-First Restaurant Ops :2029, 1y
 ```
 
 
