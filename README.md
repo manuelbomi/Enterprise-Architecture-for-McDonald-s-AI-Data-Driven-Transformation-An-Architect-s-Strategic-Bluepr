@@ -152,28 +152,28 @@ timeline
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
 │  ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐          │
-│  │  Preliminary:   │    │   **Phase A**:       │    │  Phase B:       │          │
-│  │  Digital Vision │────▶│  Architecture   │────▶│  Business    │          │
+│  │  Preliminary:   │    │   Phase A:      │    │  Phase B:       │          │
+│  │  Digital Vision │────▶│  Architecture │────▶│  Business      │          │
 │  │  & Strategy     │    │  Vision         │    │  Architecture   │          │
 │  │                 │    │  QSR AI         │    │  Restaurant Ops │          │
 │  │                 │    │  Business Case  │    │  Capabilities   │          │
 │  └─────────────────┘    └─────────────────┘    └─────────────────┘          │
 │                                                                             │
 │  ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐          │
-│  │  Phase C:       │    │  Phase D:       │    │  Phase E:       │        │
-│  │  Information    │────▶│  Technology     │────▶│  Opportunities │        │
-│  │  Systems        │    │  Architecture   │    │  & Solutions    │        │
-│  │  Global Data    │    │  Edge AI        │    │  Kitchen        │        │
-│  │  Lake           │    │  Platform       │    │  Automation     │        │
-│  └─────────────────┘    └─────────────────┘    └─────────────────┘        │
+│  │  Phase C:       │    │  Phase D:       │    │  Phase E:       │          │
+│  │  Information    │────▶│ Technology     │────▶│ Opportunities │          │
+│  │  Systems        │    │  Architecture   │    │  & Solutions    │          │
+│  │  Global Data    │    │  Edge AI        │    │  Kitchen        │          │
+│  │  Lake           │    │  Platform       │    │  Automation     │          │
+│  └─────────────────┘    └─────────────────┘    └─────────────────┘          │
 │                                                                             │
-│  ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐        │
-│  │  Phase F:       │    │  Phase G:       │    │  Phase H:       │        │
+│  ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐          │
+│  │  Phase F:       │    │  Phase G:       │    │  Phase H:       │          │
 │  │  Migration      │────▶│  Implementation │────▶│  Architecture  │────────┘
-│  │  Planning       │    │  Model          │    │  Change         │
-│  │  Franchisee     │    │  Deployment to  │    │  Continuous     │
-│  │  Rollout        │    │  40K Locations  │    │  Menu Optimiz.  │
-│  └─────────────────┘    └─────────────────┘    └─────────────────┘        │
+│  │  Planning       │    │  Model          │    │  Change         │          │
+│  │  Franchisee     │    │  Deployment to  │    │  Continuous     │          │
+│  │  Rollout        │    │  40K Locations  │    │  Menu Optimiz.  │          │
+│  └─────────────────┘    └─────────────────┘    └─────────────────┘          │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 
