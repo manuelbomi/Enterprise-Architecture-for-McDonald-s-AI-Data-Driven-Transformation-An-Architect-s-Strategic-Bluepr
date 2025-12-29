@@ -55,8 +55,8 @@ LEFT SIDE: CURRENT STATE (2024)                     RIGHT SIDE: TARGET STATE (20
 
 ### *Figure 2: McDonald's target AI/Data capability landscape*
 
-```python
-# MCDONALD'S AI CAPABILITY ECOSYSTEM 2024 → 2027
+
+### MCDONALD'S AI CAPABILITY ECOSYSTEM 2024 → 2027
 
 ```mermaid
 gantt
@@ -92,7 +92,7 @@ gantt
     AI-First Restaurant Ops :2027, 1y
 ```
 
-```
+
 
 
 ## 2. Integrating Business Capability Models with McDonald's Architecture
