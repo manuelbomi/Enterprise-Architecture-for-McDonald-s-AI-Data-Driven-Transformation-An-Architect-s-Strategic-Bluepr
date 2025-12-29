@@ -73,23 +73,23 @@ gantt
     Limited Edge Deployment :2026, 1y
     
     section Transformation
-    Phase 1: Foundation :2026, 2y
-    Data Unification :milestone, 2026, 1d
-    Platform Standardization :milestone, 2026, 1d
-    Franchisee Onboarding :milestone, 2026, 1d
+    Phase 1: Foundation :2027, 2y
+    Data Unification :milestone, 2027, 1d
+    Platform Standardization :milestone, 2027, 1d
+    Franchisee Onboarding :milestone, 2027, 1d
     
-    Phase 2: Scale :2027, 2y
-    Global Rollout :milestone, 2027, 1d
+    Phase 2: Scale :2028, 2y
+    Global Rollout :milestone, 2028, 1d
     
-    section Target State (2027)
-    Unified Personalization Engine :2027, 1y
-    Global Voice AI Platform :2027, 1y
-    Predictive Kitchen AI :2027, 1y
-    Autonomous Equipment :2027, 1y
-    Integrated AI Governance :2027, 1y
-    Full Edge AI Network :2027, 1y
-    Real-time Everything :2027, 1y
-    AI-First Restaurant Ops :2027, 1y
+    section Target State (2028)
+    Unified Personalization Engine :2028, 1y
+    Global Voice AI Platform :2028, 1y
+    Predictive Kitchen AI :2028, 1y
+    Autonomous Equipment :2028, 1y
+    Integrated AI Governance :2028, 1y
+    Full Edge AI Network :2028, 1y
+    Real-time Everything :2028, 1y
+    AI-First Restaurant Ops :2028, 1y
 ```
 
 
