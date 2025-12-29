@@ -262,6 +262,11 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
 
 ## 3. McDonald's Four-Phase Business Capability Modeling
 
+> [!IMPORTANT]
+> The analysis presented below draws from our thorough review of publicly available online sources, including the McDonald's Global Tech blog (available at: https://medium.com/mcdonalds-technical-blog). While we have strived for accuracy, we recognize that some of the information referenced  may have evolved since our research was conducted.
+>
+
+
 ### <ins>Phase 1</ins>: Strategic Assessment of McDonald's AI Opportunities
 
 #### McDonald's-Specific Activities:
@@ -281,6 +286,11 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
   - 2026: Predictive kitchen operations
 
   - 2027-2029: Autonomous restaurant elements
+ 
+
+<img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/3c40b8d3-97bc-4d7e-9773-2412bac10213" />
+
+ *Figure 4: McDonald's-specific AI capability assessment & Gap Analysis*
 
 
  ---
@@ -314,9 +324,7 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
 - Threats: Regional data sovereignty laws, Franchisee adoption resistance, Competitive AI investments
 
 
-<img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/3c40b8d3-97bc-4d7e-9773-2412bac10213" />
 
- *Figure 4: McDonald's-specific AI capability assessment & Gap Analysis*
 
 
 ### 🍟 MCDONALD'S Kitchen Automation Capability & GAP Analysis
