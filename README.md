@@ -179,6 +179,8 @@ timeline
 
 ```
 
+*Figure 2: McDonald's-specific TOGAF cycle for global AI deployment*
+
 ---
 
 ### 2.2 ArchiMate EA Model for McDonald's Restaurant Technology Stack & Roadmap
@@ -247,7 +249,7 @@ timeline
 └────────────────────────────────────────────────────────────────────────────┘
 
 ````
-Figure: ArchiMate layered architecture showing McDonald's technology stack from business capabilities to physical implementation
+Figure 3: ArchiMate layered architecture showing McDonald's technology stack from business capabilities to physical implementation*
 
 
 
