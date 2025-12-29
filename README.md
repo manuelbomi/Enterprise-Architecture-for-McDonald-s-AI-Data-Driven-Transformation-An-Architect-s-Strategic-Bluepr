@@ -56,7 +56,7 @@ LEFT SIDE: CURRENT STATE (2024)                     RIGHT SIDE: TARGET STATE (20
 ### *Figure 2: McDonald's target AI/Data capability landscape*
 
 
-### MCDONALD'S AI CAPABILITY ECOSYSTEM 2024 → 2027
+### MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
 
 ```mermaid
 gantt
@@ -79,9 +79,9 @@ gantt
     Franchisee Onboarding :milestone, 2027, 1d
     
     Phase 2: Scale :2028, 2y
-    Global Rollout :milestone, 2028, 1d
+    Global Rollout :milestone, 2028-2029, 1d
     
-    section Target State (2028)
+    section Target State (2028-2029)
     Unified Personalization Engine :2028, 1y
     Global Voice AI Platform :2028, 1y
     Predictive Kitchen AI :2028, 1y
