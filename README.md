@@ -486,8 +486,8 @@ McDonald's Global MLOps Architecture:
 
 McDonald's Edge AI Stack:
   Primary Use Cases:
-    - Voice AI Order Taking: NVIDIA Jetson AGX + Custom ASICs
-    - Kitchen Computer Vision: Intel Movidius + On-device ML
+    - Voice AI Order Taking: Google Coral TPU or NVIDIA Jetson AGX + Custom ASICs
+    - Kitchen Computer Vision: Google Coral Dev Board, Intel Movidius + On-device ML
     - Local Personalization: AWS Snowball Edge + SageMaker Edge
     
   Deployment Strategy:
