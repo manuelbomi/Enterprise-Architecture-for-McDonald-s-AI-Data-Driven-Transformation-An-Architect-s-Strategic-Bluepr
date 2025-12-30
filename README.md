@@ -565,8 +565,10 @@ class McDonaldsAIEthics:
 
 - Success Metrics: 80% data unification, <5-minute data latency
 
+---
 
-#### 🍟 McDonald's AI Capability Ecosystem 2026 → 2029
+
+#### 🍟 McDonald's AI Capability Ecosystem 2026 → 2029 (Timeline)
 
 ```mermaid
 timeline
