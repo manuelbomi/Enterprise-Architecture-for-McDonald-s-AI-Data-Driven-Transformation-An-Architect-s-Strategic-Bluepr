@@ -366,7 +366,7 @@ quadrantChart
 
 - Differentiation (18-36 months): Kitchen AI and automation
 
-- Transformation (36-60 months): Autonomous restaurant capabilities
+- Transformation (36-60 months): Autonomous restaurant capabilities. *This phase can also me modelled separately since it may fall outsie the 36 month timeline*. 
 
 ---
 
