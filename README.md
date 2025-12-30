@@ -548,6 +548,8 @@ McDonald's Global MLOps Architecture:
 
 ### Architecture Decision Framework:
 
+```yaml
+
 McDonald's Edge AI Stack:
   Primary Use Cases:
     - Voice AI Order Taking: NVIDIA Jetson AGX + Custom ASICs
@@ -562,5 +564,7 @@ McDonald's Edge AI Stack:
   Cost Model:
     - Target: <$5K/restaurant hardware
     - ROI Threshold: 6-month payback via labor savings
+
+```
 
 
