@@ -467,22 +467,7 @@ quadrantChart
 | Technical Debt | $0.2B annual maintenance | $0.5B annual maintenance | +$0.3B | Standardized architecture vs siloed systems |
 | 3-Year Net Value | +$3.1B | +$0.9B | +$2.2B | EA advantage |
 
-## Enterprise Architecture Value Analysis: EA-Guided vs Current Trajectory
 
-| Investment Area | 🏗️ EA-Guided Approach | 🚧 Current Trajectory | 📈 Delta | 📋 Rationale |
-|-----------------|-----------------------|------------------------|----------|--------------|
-| **Personalization ROI** | **$1.2B** annual sales lift | $0.6B annual sales lift | **+$0.6B** ✅ | Unified 360° customer view vs fragmented data silos |
-| **Kitchen Efficiency** | **15%** food cost reduction | 5% reduction | **+$0.9B** ✅ | AI-optimized inventory management vs basic systems |
-| **Labor Optimization** | **10%** labor cost reduction | 2% reduction | **+$0.4B** ✅ | Predictive AI scheduling vs static manual schedules |
-| **Implementation Cost** | **$2.1B** total investment | $1.8B investment | **-$0.3B** ⚠️ | Strategic platform investment vs tactical point solutions |
-| **Technical Debt** | **$0.2B** annual maintenance | $0.5B annual maintenance | **+$0.3B** ✅ | Standardized architecture vs costly siloed systems |
-| **3-Year Net Value** | **+$3.1B** | +$0.9B | **+$2.2B** 🚀 | **144% higher value with EA approach** |
-
-## Key Insights:
-- **Net Benefit:** EA approach delivers **$2.2B additional value** over 3 years
-- **ROI Multiplier:** Every $1 in extra EA investment returns **$7.33 in additional value**
-- **Risk Reduction:** Lower technical debt reduces long-term maintenance costs by 60%
-- **Scalability:** EA platform enables faster scaling and adaptation
 
 # Enterprise Architecture Business Case: Financial Impact Analysis
 
