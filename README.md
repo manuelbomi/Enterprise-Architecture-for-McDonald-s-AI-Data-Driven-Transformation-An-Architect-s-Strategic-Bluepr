@@ -667,7 +667,7 @@ gantt
     AI-First Restaurant Ops :2029, 1y
 ```
 
-### <ins>Phase 4</ins>:  Global Rollout (Months 24-26) - "Refinements/New Technology Adoption"
+### <ins>Phase 4</ins>:  Global Rollout (Months 24-36) - "Refinements/New Technology Adoption"
 
 #### Objective: Re-assessment & New Strategies Adoption Based on Learned Lessons
 
