@@ -10,12 +10,7 @@
 
 #### The capability assessment presented in this repository constitutes an in-depth analysis of how McDonald's can methodically advance its AI/Data technology adoption. This progression will strategically reposition the company as a global QSR leader that fully leverages technological innovation to enhance customer experience and shareholder value.
 
-
-
-#### This comprehensive guide outlines how strategic business capability modeling can assist McDonald's to systematically align its AI/ML ambitions to seamlessly realize AI/ML aligned features such as hyper-personalization and fully automated kitchens etc. The guide also features executable technology roadmaps with measurable business outcomes and methods that can help McDonald's to sustain competitive advantages in the Quick-Service Restaurant (QSR) industry.
-
-#### Our detailed and comprehensive business capability assessment presented in this repository is an in-depth discourse on how McDonald's can methodically and robustly escalate its AI/Data tech adoption to reposition McDonald's as a global QSR that fully utilizes the benefits of various type of technologies to enhance her customers' and shareholders' satisfaction.
-
+---
 
 
 #### The capability assessment of this repository fully discusses how McDonald's can painlessly realise the enterprise architecture vision shown in figures 1 & 2
