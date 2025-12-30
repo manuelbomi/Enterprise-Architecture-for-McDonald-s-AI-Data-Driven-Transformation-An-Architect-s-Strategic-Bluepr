@@ -493,6 +493,8 @@ McDonald's Edge AI Stack:
 
 ```
 
+---
+
 ### 5.3 Ethical AI for McDonald's Global Operations
 
 #### McDonald's-Specific Ethical Considerations:
@@ -528,6 +530,8 @@ class McDonaldsAIEthics:
         pass
 
 ```
+
+---
 
 ## 6. McDonald's Implementation Roadmap: 24-36 Month Transformation
 
@@ -596,7 +600,7 @@ timeline
 - **Full Edge AI Network:** Real-time processing in every restaurant
 - **AI-First Restaurant Ops:** Complete AI-driven operations lifecycle
 
-
+---
 
 ### <ins>Phase 2</ins>:  Scaling (Months 9-16) - "Intelligent Restaurants"
 
@@ -611,6 +615,8 @@ timeline
 - Enhanced personalization (Next Best Offer engine)
 
 - Success Metrics: 10% sales lift in pilot stores, 15% kitchen efficiency gain
+
+---
 
 ### <ins>Phase 3</ins>:  Global Rollout (Months 17-24) - "AI-Powered Network"
 
@@ -666,6 +672,8 @@ gantt
     Real-time Everything :2029, 1y
     AI-First Restaurant Ops :2029, 1y
 ```
+
+---
 
 ### <ins>Phase 4</ins>:  Global Rollout (Months 24-36) - "Refinements/New Technology Adoption"
 
