@@ -532,153 +532,35 @@ McDonald's Global MLOps Architecture:
 
 *Figure 6: McDonald's global MLOps architecture for restaurant deployment*
 
+---
 
-```flowchart TB
+## 5.2 McDonald's Edge AI Infrastructure
 
-%% Top-Level Layer
-HQ[Central Model Development<br/>(Chicago HQ)]
+### Restaurant-Level Requirements:
 
-%% HQ Subcomponents
-HQ1[Global Customer Behavior Models]
-HQ2[Supply Chain Optimization Models]
-HQ3[Menu Engineering Algorithms]
+- Drive-thru AI: <500ms response time for voice ordering
 
-HQ --> HQ1
-HQ --> HQ2
-HQ --> HQ3
+- Kitchen Vision: Real-time food quality monitoring
 
-%% Regional Layer
-REG[Regional Adaptation Hubs]
+- Predictive Equipment: IoT sensor processing for maintenance
 
-REG1[Market-Specific Customization]
-REG2[Local Regulation Compliance]
-REG3[Cultural Preference Adaptation]
+- Bandwidth Constraints: Limited internet in some locations
 
-REG --> REG1
-REG --> REG2
-REG --> REG3
+### Architecture Decision Framework:
 
-%% Edge Layer
-EDGE[Restaurant Edge Inference<br/>(40,000+ Locations)]
-
-EDGE1[Low-Latency Personalization]
-EDGE2[Real-Time Kitchen Optimization]
-EDGE3[Offline Capability<br/>(Poor Connectivity)]
-
-EDGE --> EDGE1
-EDGE --> EDGE2
-EDGE --> EDGE3
-
-%% Cross-Layer Flow
-HQ --> REG --> EDGE
-
-```
-
-
-## **Option 3: Mermaid Architecture Diagram**
-````markdown
-# McDonald's Global MLOps Architecture
-
-```mermaid
-graph TB
-    subgraph "🍔 Central Model Development (Chicago HQ)"
-        A1[Global Customer<br/>Behavior Models]
-        A2[Supply Chain<br/>Optimization Models]
-        A3[Menu Engineering<br/>Algorithms]
-    end
+McDonald's Edge AI Stack:
+  Primary Use Cases:
+    - Voice AI Order Taking: NVIDIA Jetson AGX + Custom ASICs
+    - Kitchen Computer Vision: Intel Movidius + On-device ML
+    - Local Personalization: AWS Snowball Edge + SageMaker Edge
     
-    subgraph "🌍 Regional Adaptation Hubs"
-        B1[Market-specific<br/>Customization]
-        B2[Local Regulation<br/>Compliance]
-        B3[Cultural Preference<br/>Adaptation]
-    end
+  Deployment Strategy:
+    - Tier 1 Markets (US, UK): Full edge AI stack
+    - Tier 2 Markets: Hybrid cloud-edge
+    - Tier 3 Markets: Cloud-dependent with offline fallback
     
-    subgraph "🏪 Restaurant Edge Inference"
-        C1[Low-latency<br/>Personalization]
-        C2[Real-time Kitchen<br/>Optimization]
-        C3[Offline Capability<br/>Poor Connectivity]
-    end
-    
-    A1 --> B1
-    A2 --> B2
-    A3 --> B3
-    B1 --> C1
-    B2 --> C2
-    B3 --> C3
-    
-    style A1 fill:#ffe6e6
-    style A2 fill:#ffe6e6
-    style A3 fill:#ffe6e6
-    style B1 fill:#e6ffe6
-    style B2 fill:#e6ffe6
-    style B3 fill:#e6ffe6
-    style C1 fill:#e6e6ff
-    style C2 fill:#e6e6ff
-    style C3 fill:#e6e6ff
-```
-
-# McDonald's Global MLOps Architecture
-
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  ┌──────────────────────────────────────────────────────────────────┐  │
-│  │  🍔 CENTRAL MODEL DEVELOPMENT (Chicago HQ)                      │  │
-│  ├──────────────────────────────────────────────────────────────────┤  │
-│  │  • Global customer behavior models                               │  │
-│  │  • Supply chain optimization models                              │  │
-│  │  • Menu engineering algorithms                                   │  │
-│  └─────────────────────┬────────────────────────────────────────────┘  │
-│                        │                                               │
-│                        ▼                                               │
-│  ┌──────────────────────────────────────────────────────────────────┐  │
-│  │  🌍 REGIONAL ADAPTATION HUBS                                     │  │
-│  ├──────────────────────────────────────────────────────────────────┤  │
-│  │  • Market-specific customization                                 │  │
-│  │  • Local regulation compliance                                   │  │
-│  │  • Cultural preference adaptation                                │  │
-│  └─────────────────────┬────────────────────────────────────────────┘  │
-│                        │                                               │
-│                        ▼                                               │
-│  ┌──────────────────────────────────────────────────────────────────┐  │
-│  │  🏪 RESTAURANT EDGE INFERENCE                                    │  │
-│  ├──────────────────────────────────────────────────────────────────┤  │
-│  │  • Low-latency personalization                                   │  │
-│  │  • Real-time kitchen optimization                                │  │
-│  │  • Offline capability (poor connectivity)                        │  │
-│  └──────────────────────────────────────────────────────────────────┘  │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-
-# McDonald's Global MLOps Architecture
-
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  ┌──────────────────────────────────────────────────────────────────┐  │
-│  │  🍔 CENTRAL MODEL DEVELOPMENT (Chicago HQ)                      │  │
-│  ├──────────────────────────────────────────────────────────────────┤  │
-│  │  • Global customer behavior models                               │  │
-│  │  • Supply chain optimization models                              │  │
-│  │  • Menu engineering algorithms                                   │  │
-│  └─────────────────────┬────────────────────────────────────────────┘  │
-│                        │                                               │
-│                        ▼                                               │
-│  ┌──────────────────────────────────────────────────────────────────┐  │
-│  │  🌍 REGIONAL ADAPTATION HUBS                                     │  │
-│  ├──────────────────────────────────────────────────────────────────┤  │
-│  │  • Market-specific customization                                 │  │
-│  │  • Local regulation compliance                                   │  │
-│  │  • Cultural preference adaptation                                │  │
-│  └─────────────────────┬────────────────────────────────────────────┘  │
-│                        │                                               │
-│                        ▼                                               │
-│  ┌──────────────────────────────────────────────────────────────────┐  │
-│  │  🏪 RESTAURANT EDGE INFERENCE                                    │  │
-│  ├──────────────────────────────────────────────────────────────────┤  │
-│  │  • Low-latency personalization                                   │  │
-│  │  • Real-time kitchen optimization                                │  │
-│  │  • Offline capability (poor connectivity)                        │  │
-│  └──────────────────────────────────────────────────────────────────┘  │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+  Cost Model:
+    - Target: <$5K/restaurant hardware
+    - ROI Threshold: 6-month payback via labor savings
 
 
