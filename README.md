@@ -18,22 +18,7 @@
 
 *Figure 1: McDonald's current and target AI/Data capability landscape. With all stakeholders engagement, the complete process from initial discussion phases to global deployment is achievable in 24 months, while further technology integration and EA re-assessement can happen from month 24 to month 36*
 
-```python
 
-               CURRENT STATE (2026)                             TARGET STATE (2029)
-┌────────────────────────────────────────────┐     ┌────────────────────────────────────────────┐
-│    CURRENT CAPABILITIES                    │     │    TARGET CAPABILITIES                     │
-│    • Silos: POS ≠ Mobile ≠ Supply Chain    │     │    • Unified Customer 360° View            │
-│    • Basic Personalization (Dynamic Yield) │     │    • Predictive Kitchen Operations         │
-│    • Limited Edge AI (Pilot Programs)      │     │    • Full Edge AI Deployment               │
-│    • Manual Operations Dominant            │     │    • Autonomous Restaurant Elements        │
-│    • Fragmented Data Governance            │     │    • Integrated Data/AI Governance         │
-└────────────────────────────────────────────┘     └────────────────────────────────────────────┘
-                        ▲                                        ▲
-                        │                                        │
-                        └────────── TRANSFORMATION ──────────────┘
-                                 ARCHITECTURE ROADMAP
-```
 
 <img width="3533" height="2917" alt="Image" src="https://github.com/user-attachments/assets/d8277f0c-4d95-418a-ad20-c544e0ea2e54" />
 
@@ -641,6 +626,23 @@ class McDonaldsAIEthics:
 ### <ins>Phase 1</ins>: Foundation (Months 1-8) - "Unified Data Platform"
 
 #### Objective: Create single customer view across all touchpoints
+
+```python
+
+               CURRENT STATE (2026)                             TARGET STATE (2029)
+┌────────────────────────────────────────────┐     ┌────────────────────────────────────────────┐
+│    CURRENT CAPABILITIES                    │     │    TARGET CAPABILITIES                     │
+│    • Silos: POS ≠ Mobile ≠ Supply Chain    │     │    • Unified Customer 360° View            │
+│    • Basic Personalization (Dynamic Yield) │     │    • Predictive Kitchen Operations         │
+│    • Limited Edge AI (Pilot Programs)      │     │    • Full Edge AI Deployment               │
+│    • Manual Operations Dominant            │     │    • Autonomous Restaurant Elements        │
+│    • Fragmented Data Governance            │     │    • Integrated Data/AI Governance         │
+└────────────────────────────────────────────┘     └────────────────────────────────────────────┘
+                        ▲                                        ▲
+                        │                                        │
+                        └────────── TRANSFORMATION ──────────────┘
+                                 ARCHITECTURE ROADMAP
+```
 
 #### Key Initiatives:
 
