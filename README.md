@@ -218,12 +218,7 @@ The Zachman Framework analysis presented here, provides a comprehensive matrix v
   - 2027-2029: Autonomous restaurant elements
  
 
-<img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/3c40b8d3-97bc-4d7e-9773-2412bac10213" />
-
- *Figure 4: McDonald's-specific AI capability assessment & Gap Analysis*
-
-
- ---
+---
 
 ### <ins>Phase 2</ins>: Target Capability Architecture for McDonald's
 
@@ -353,6 +348,10 @@ quadrantChart
 - Opportunities: Kitchen automation patents, Voice AI acquisitions, Edge computing partnerships
 
 - Threats: Regional data sovereignty laws, Franchisee adoption resistance, Competitive AI investments
+
+<img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/3c40b8d3-97bc-4d7e-9773-2412bac10213" />
+
+ *Figure 4: McDonald's-specific AI capability assessment & Gap Analysis*
   
 ---
 
