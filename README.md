@@ -579,11 +579,10 @@ timeline
     2029 : Target State<br>• Unified Personalization Engine<br>• Global Voice AI Platform<br>• Full Edge AI Network
 ```
 
+---
 
 
-#### 🍟 McDonald's AI Capability Ecosystem 2026 → 2029
-
-#### 📅 Transformation Timeline
+#### Transformation Timeline Details
 
 | Year | Phase | Key Initiatives | Expected Outcomes |
 |------|-------|-----------------|-------------------|
