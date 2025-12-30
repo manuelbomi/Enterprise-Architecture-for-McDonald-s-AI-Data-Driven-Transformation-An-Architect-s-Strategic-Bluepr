@@ -184,6 +184,8 @@ The ArchiMate layered model presented here, illustrates how McDonald's business 
 
 The Zachman Framework analysis presented here, provides a comprehensive matrix view of McDonald's AI systems across six stakeholder perspectives and architectural abstractions. This structured approach ensures all aspects—from executive strategy to technical implementation—are considered in designing scalable, compliant AI solutions that meet both business objectives and technical requirements across McDonald's global operations.
 
+
+### *Table 1: McDonald's AI Architecture: Zachman Framework Cross-Perspective Analysis*
 | Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
 |-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
 | **Scope**<br>*(Executive View)* | • Customer purchase history<br>• Seasonal preference data<br>• Regional menu variations | • Global personalization engine<br>• Cross-market recommendation system | • 40,000+ global restaurants<br>• Mobile app (70M+ users)<br>• Drive-thru systems | • 2M+ crew members<br>• Corporate leadership<br>• Global customers | • Real-time recommendations<br>• 24/7 operations | • $25B digital sales target<br>• 30% digital revenue growth<br>• Enhanced customer experience |
