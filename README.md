@@ -148,10 +148,10 @@ The ArchiMate layered model presented here, illustrates how McDonald's business 
 │  │                      TECHNOLOGY LAYER                                │   │
 │  │  ┌──────────────────────────────────────────────────────────────┐    │   │
 │  │  │  Technology Services & Infrastructure                        │    │   │
-│  │  │  • Global Feature Store (Customer Preferences)               │    │   │
+│  │  │  • Global Feature Store (Customer Preferences, GCP)          │    │   │
 │  │  │  • Edge AI Inference (NVIDIA GPUs at Restaurants)            │    │   │
 │  │  │  • Real-time Data Pipeline (Apache Kafka)                    │    │   │
-│  │  │  • Model Registry & MLflow                                   │    │   │
+│  │  │  • Model Registry & MLOps (MLflow, Wandb, ZenML, Kubeflow etc)    │   │   
 │  │  │  • IoT Gateway & Edge Computing                              │    │   │
 │  │  │  • API Gateway & Microservices                               │    │   │
 │  │  └──────────────────────────────────────────────────────────────┘    │   │
@@ -165,7 +165,7 @@ The ArchiMate layered model presented here, illustrates how McDonald's business 
 │  │  │  • Restaurant POS Systems (NCR, Square, etc.)                │    │   │
 │  │  │  • Kitchen Automation Hardware & Robotics                    │    │   │
 │  │  │  • Drive-Thru Sensors, Cameras & Audio                       │    │   │
-│  │  │  • Cloud Regions (GCP/AWS per market compliance)             │    │   │
+│  │  │  • Cloud Regions (GCP, per market compliance)                │    │   │
 │  │  │  • Edge Computing Devices (Restaurant Servers)               │    │   │
 │  │  └──────────────────────────────────────────────────────────────┘    │   │
 │  └──────────────────────────────────────────────────────────────────────┘   │
