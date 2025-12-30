@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-##### McDonald's stands at a critical inflection point in its digital transformation journey. 
+#### McDonald's stands at a critical inflection point in its digital transformation journey. 
 
 #### As a global restaurant chain serving more than 69 million customers daily across 40,000+ locations, the company's transition from fast food to tech-guided-fast-food services requires a deliberate enterprise architecture approach. 
 
