@@ -209,7 +209,7 @@ The Zachman Framework analysis presented here, provides a comprehensive matrix v
 
 - Franchisee council workshops on AI adoption barriers
 
-- Competitive analysis against Starbucks' Deep Brew and Domino's AI initiatives
+- Competitive analysis against Starbucks' Deep Brew and Domino's AI initiatives. (**If needed, readers may contact the Author for detailed result of studies on Starbucks and Domino's  AI initiatitves**)
 
 - Assessment of current tech stack fragmentation (POS vendors, mobile platforms)
 
