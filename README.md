@@ -65,12 +65,7 @@
 
 
 
-<img width="3820" height="2881" alt="Image" src="https://github.com/user-attachments/assets/4f6802bf-e575-4b9f-b80f-4b6ac1fe6dfe" />
 
-
-
-
-### *Figure 1: McDonald's current and target AI/Data capability landscape*
 
 
 
