@@ -104,7 +104,7 @@ McDonald's requires a modified TOGAF Architecture Development Method (ADM) that 
 
 ```
 
-*Figure 2: McDonald's-specific TOGAF cycle for global AI deployment*
+*Figure 3: McDonald's-specific TOGAF cycle for global AI deployment*
 
 ---
 
@@ -176,7 +176,7 @@ The ArchiMate layered model presented here, illustrates how McDonald's business 
 └────────────────────────────────────────────────────────────────────────────┘
 
 ````
-Figure 3: ArchiMate layered architecture showing McDonald's technology stack from business capabilities to physical implementation*
+Figure 4: ArchiMate layered architecture showing McDonald's technology stack from business capabilities to physical implementation*
 
 ---
 
