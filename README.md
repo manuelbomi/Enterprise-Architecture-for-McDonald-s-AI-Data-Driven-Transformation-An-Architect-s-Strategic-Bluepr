@@ -379,7 +379,7 @@ quadrantChart
   
 ---
 
-### 4.2 Enterprise Architecture/AI/Data?MLOps Business Case: Financial Impact Analysis
+### 4.2 Enterprise Architecture/AI/Data/MLOps Business Case: Financial Impact Analysis
 
 ### Three-Year Financial Comparison
 
