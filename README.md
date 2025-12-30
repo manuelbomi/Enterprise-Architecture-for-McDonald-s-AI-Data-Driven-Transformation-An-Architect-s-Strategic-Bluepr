@@ -55,6 +55,8 @@
 
 - Regulatory Diversity: 100+ countries with varying data privacy and AI regulations
 
+---
+
 
 ## 2. Integrating Business Capability Models with McDonald's Architecture
 
