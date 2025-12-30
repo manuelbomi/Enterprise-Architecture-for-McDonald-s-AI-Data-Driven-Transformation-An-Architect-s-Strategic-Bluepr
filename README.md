@@ -64,7 +64,7 @@
 
 ## 2. Integrating Business Capability Models with McDonald's Architecture
 
-For McDonald's global scale and franchise-based operational model, traditional enterprise architecture frameworks require significant adaptation. The integration of business capability models with McDonald's architecture must address the unique tension between centralized efficiency and local autonomy, while enabling scalable AI deployment across 40,000+ diverse locations.
+For McDonald's global scale and franchise-based operational model, traditional enterprise architecture frameworks require significant adaptation. The integration of BCMs with McDonald's architecture must address the unique tension between centralized efficiency and local autonomy, while enabling scalable AI deployment across 40,000+ diverse locations.
 
 ### 2.1 McDonald's-Specific TOGAF ADM Adaptation
 
