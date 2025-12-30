@@ -532,3 +532,44 @@ McDonald's Global MLOps Architecture:
 
 *Figure 6: McDonald's global MLOps architecture for restaurant deployment*
 
+
+flowchart TB
+
+%% Top-Level Layer
+HQ[Central Model Development<br/>(Chicago HQ)]
+
+%% HQ Subcomponents
+HQ1[Global Customer Behavior Models]
+HQ2[Supply Chain Optimization Models]
+HQ3[Menu Engineering Algorithms]
+
+HQ --> HQ1
+HQ --> HQ2
+HQ --> HQ3
+
+%% Regional Layer
+REG[Regional Adaptation Hubs]
+
+REG1[Market-Specific Customization]
+REG2[Local Regulation Compliance]
+REG3[Cultural Preference Adaptation]
+
+REG --> REG1
+REG --> REG2
+REG --> REG3
+
+%% Edge Layer
+EDGE[Restaurant Edge Inference<br/>(40,000+ Locations)]
+
+EDGE1[Low-Latency Personalization]
+EDGE2[Real-Time Kitchen Optimization]
+EDGE3[Offline Capability<br/>(Poor Connectivity)]
+
+EDGE --> EDGE1
+EDGE --> EDGE2
+EDGE --> EDGE3
+
+%% Cross-Layer Flow
+HQ --> REG --> EDGE
+
+
