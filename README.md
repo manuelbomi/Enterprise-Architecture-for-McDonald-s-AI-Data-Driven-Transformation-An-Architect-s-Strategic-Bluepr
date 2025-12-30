@@ -60,56 +60,6 @@
 - Regulatory Diversity: 100+ countries with varying data privacy and AI regulations
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
-
-```mermaid
-timeline
-    title McDonald's AI Transformation Journey
-    2026 : Current State<br>• Dynamic Yield Integration<br>• Voice AI in 30+ Markets<br>• Advanced KDS Coordination
-    2027 : Foundation Phase<br>• Global Data Fabric<br>• Unified AI Platform Standard<br>• 80% Franchisee Integration
-    2028 : Scaling Phase<br>• Global Predictive Rollout<br>• Autonomous Equipment Pilot<br>• AI Governance Harmonization
-    2029 : Target State<br>• Unified Personalization Engine<br>• Global Voice AI Platform<br>• Full Edge AI Network
-```
-
-
-
-### 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
-
-## 📅 Transformation Timeline
-
-| Year | Phase | Key Initiatives | Expected Outcomes |
-|------|-------|-----------------|-------------------|
-| **2026** | **Current State** | • Dynamic Yield fully integrated<br>• Voice AI expanded to 30+ markets<br>• Production IoT sensors deployed<br>• Regional edge computing established | Foundation for global AI expansion |
-| **2027** | **Foundation** | • Global data fabric implementation<br>• Unified AI platform standardization<br>• 80% franchisee system integration | Single source of truth, standardized platforms |
-| **2028** | **Scale** | • Global predictive AI rollout<br>• Autonomous equipment pilots<br>• AI governance framework harmonization | AI-driven operations at scale |
-| **2029** | **Target State** | • Unified personalization engine<br>• Full edge AI network deployment<br>• AI-first restaurant operations | Fully integrated, autonomous AI ecosystem |
-
-##  Target State (2029) Capabilities
-- **Unified Personalization Engine:** Real-time customer preference prediction
-- **Global Voice AI Platform:** Consistent multilingual customer experience
-- **Predictive Kitchen AI:** Proactive inventory and preparation optimization
-- **Autonomous Equipment Fleet:** Self-optimizing kitchen equipment
-- **Integrated AI Governance:** Global compliance and ethics framework
-- **Full Edge AI Network:** Real-time processing in every restaurant
-- **AI-First Restaurant Ops:** Complete AI-driven operations lifecycle
-
-
-
-
 ## 2. Integrating Business Capability Models with McDonald's Architecture
 
 ##### For McDonald's global scale and franchise-based operational model, traditional enterprise architecture frameworks require significant adaptation. The integration of business capability models with McDonald's architecture must address the unique tension between centralized efficiency and local autonomy, while enabling scalable AI deployment across 40,000+ diverse locations.
@@ -602,13 +552,49 @@ class McDonaldsAIEthics:
 
 #### Key Initiatives:
 
-- Global data lake consolidation (BigQuery + Snowflake)
+- Global data lake consolidation (BigQuery, etc)
 
 - Real-time streaming pipeline (Kafka + Flink)
 
 - Foundation MLOps platform (Vertex AI + MLflow)
 
 - Success Metrics: 80% data unification, <5-minute data latency
+
+
+#### 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
+
+```mermaid
+timeline
+    title McDonald's AI Transformation Journey
+    2026 : Current State<br>• Dynamic Yield Integration<br>• Voice AI in 30+ Markets<br>• Advanced KDS Coordination
+    2027 : Foundation Phase<br>• Global Data Fabric<br>• Unified AI Platform Standard<br>• 80% Franchisee Integration
+    2028 : Scaling Phase<br>• Global Predictive Rollout<br>• Autonomous Equipment Pilot<br>• AI Governance Harmonization
+    2029 : Target State<br>• Unified Personalization Engine<br>• Global Voice AI Platform<br>• Full Edge AI Network
+```
+
+
+
+#### 🍟 MCDONALD'S AI CAPABILITY ECOSYSTEM 2026 → 2029
+
+#### 📅 Transformation Timeline
+
+| Year | Phase | Key Initiatives | Expected Outcomes |
+|------|-------|-----------------|-------------------|
+| **2026** | **Current State** | • Dynamic Yield fully integrated<br>• Voice AI expanded to 30+ markets<br>• Production IoT sensors deployed<br>• Regional edge computing established | Foundation for global AI expansion |
+| **2027** | **Foundation** | • Global data fabric implementation<br>• Unified AI platform standardization<br>• 80% franchisee system integration | Single source of truth, standardized platforms |
+| **2028** | **Scale** | • Global predictive AI rollout<br>• Autonomous equipment pilots<br>• AI governance framework harmonization | AI-driven operations at scale |
+| **2028-2029** | **Target State** | • Unified personalization engine<br>• Full edge AI network deployment<br>• AI-first restaurant operations | Fully integrated, autonomous AI ecosystem |
+
+####  Target State (2028-2029) Capabilities
+- **Unified Personalization Engine:** Real-time customer preference prediction
+- **Global Voice AI Platform:** Consistent multilingual customer experience
+- **Predictive Kitchen AI:** Proactive inventory and preparation optimization
+- **Autonomous Equipment Fleet:** Self-optimizing kitchen equipment
+- **Integrated AI Governance:** Global compliance and ethics framework
+- **Full Edge AI Network:** Real-time processing in every restaurant
+- **AI-First Restaurant Ops:** Complete AI-driven operations lifecycle
+
+
 
 ### <ins>Phase 2</ins>:  Scaling (Months 9-16) - "Intelligent Restaurants"
 
