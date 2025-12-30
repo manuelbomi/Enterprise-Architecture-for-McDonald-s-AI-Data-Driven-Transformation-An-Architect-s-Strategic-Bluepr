@@ -151,7 +151,7 @@ The ArchiMate layered model presented here, illustrates how McDonald's business 
 │  │  │  • Global Feature Store (Customer Preferences, GCP)          │    │   │
 │  │  │  • Edge AI Inference (NVIDIA GPUs at Restaurants)            │    │   │
 │  │  │  • Real-time Data Pipeline (Apache Kafka)                    │    │   │
-│  │  │  • Model Registry & MLOps (MLflow, Wandb, ZenML, Kubeflow etc)    │   │   
+│  │  │  • Model Registry & MLOps (GCR, MLFlow, ZenML, Kubeflow etc) │    │   │ 
 │  │  │  • IoT Gateway & Edge Computing                              │    │   │
 │  │  │  • API Gateway & Microservices                               │    │   │
 │  │  └──────────────────────────────────────────────────────────────┘    │   │
