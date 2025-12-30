@@ -6,7 +6,7 @@
 
 #### As a global restaurant chain serving more than 69 million customers daily across 40,000+ locations, the company's transition from fast food to tech-guided-fast-food services requires a deliberate enterprise architecture approach. 
 
-#### This comprehensive guide outlines how strategic business capability modeling enables McDonald's to systematically align its AI/ML ambitions—from hyper-personalization to automated kitchens—with executable technology roadmaps, ensuring measurable business outcomes and sustained competitive advantage in the Quick-Service Restaurant (QSR) industry.
+#### This comprehensive guide outlines how strategic business capability modeling can assist McDonald's to systematically align its AI/ML ambitions—from hyper-personalization to automated kitchens—with executable technology roadmaps, ensuring measurable business outcomes and sustained competitive advantage in the Quick-Service Restaurant (QSR) industry.
 
 #### Our detailed and comprehensive business capability assessment presented in this repository is an in-depth discourse on how McDonald's can methodically transition from its current AI/Data tech adoption to a global  and QSR that fully utilizes the benefits of various type of technologies to enhance customers' and shareholders' satisfication 
 
