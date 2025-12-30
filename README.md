@@ -106,6 +106,8 @@
 
 ### 2.2 ArchiMate EA Model for McDonald's Restaurant Technology Stack & Roadmap
 
+#### The ArchiMate layered model presented here, illustrates how McDonald's business capabilities translate into technical implementation across four architectural tiers. This visualization shows the progression from strategic business objectives through application services to the underlying technology infrastructure and physical restaurant systems, with clear relationship mappings between each layer.
+
 ```python
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                  ARCHIMATE EA MODEL: McDonald's Restaurant Tech Stack       │
@@ -175,6 +177,8 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
 ---
 
 ### 🍟 2.3 McDonald's AI Systems: Zachman Framework Analysis
+
+#### The Zachman Framework analysis presented here, provides a comprehensive matrix view of McDonald's AI systems across six stakeholder perspectives and architectural abstractions. This structured approach ensures all aspects—from executive strategy to technical implementation—are considered in designing scalable, compliant AI solutions that meet both business objectives and technical requirements across McDonald's global operations.
 
 | Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
 |-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
