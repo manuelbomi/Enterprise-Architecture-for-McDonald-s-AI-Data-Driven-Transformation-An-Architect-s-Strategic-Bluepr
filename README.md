@@ -17,7 +17,7 @@
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a8c0b7f1-3386-4a05-8162-e88e5a157af6" />
 
-*Figure 1: McDonald's current and target AI/Data capability landscape. With all stakeholders engagement, the complete process from initial discussion phases to global deployment is achievable in 24 months, while further technology integration and EA re-assessement can happen from month 24 to month 36*
+*Figure 1: McDonald's current and target AI/Data capability landscape. With comprehensive stakeholder engagement, the complete transformation cycle—from initial strategic discussions through global deployment—is achievable within 24 months. Subsequent technology integration and enterprise architecture refinement can extend through months 24 to 36*
 
 
 
