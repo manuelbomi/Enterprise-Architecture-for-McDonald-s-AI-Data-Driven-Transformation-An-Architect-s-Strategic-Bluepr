@@ -788,13 +788,13 @@ def get_model_deployment_status():
 
 #### The business capability model serves as the essential translation layer between McDonald's strategic ambitions ("Accelerating the Arches" growth plan) and the technical execution of AI/ML systems at restaurant level. By adopting the EA-guided approach outlined in this blueprint, McDonald's can achieve:
 
-### 1. Scalable Personalization: Moving from basic recommendations to predictive "know your order" capabilities
+#### 1. Scalable Personalization: Moving from basic recommendations to predictive "know your order" capabilities
 
-### 2. Autonomous Operations: Gradually increasing automation while maintaining the human touch
+#### 2. Autonomous Operations: Gradually increasing automation while maintaining the human touch
 
-### 3. Unified Intelligence: Breaking down data silos between app, restaurant, and supply chain
+#### 3. Unified Intelligence: Breaking down data silos between app, restaurant, and supply chain
 
-### 4. Sustainable Innovation: Creating an AI platform that evolves with technology advances
+#### 4. Sustainable Innovation: Creating an AI platform that evolves with technology advances
 
 #### The Principal Enterprise Architect role at McDonald's is uniquely positioned to orchestrate this transformation—balancing the scale of a global brand with the local realities of franchise operations, while ensuring that AI serves both business objectives and customer experience.
 
