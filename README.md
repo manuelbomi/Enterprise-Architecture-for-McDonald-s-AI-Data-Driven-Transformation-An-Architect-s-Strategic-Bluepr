@@ -32,8 +32,11 @@
 > 2. Capability modeling frameworks (TOGAF, ArchiMate) applied to McDonald's specific context.
 > 3. Professional architectural judgment regarding scalable, sustainable AI/data platform design.
 > This architectural perspective only serves as a starting point for discussion—not a finalized plan. The true value will be realized through:
+>
 > (i) Collaborative refinements/discussion with all stakeholder groups
+> 
 > (ii) Iterative validation through prototypes and pilots &
+> 
 > (iii) Adaptive evolution based on implementation learnings
 >
 
