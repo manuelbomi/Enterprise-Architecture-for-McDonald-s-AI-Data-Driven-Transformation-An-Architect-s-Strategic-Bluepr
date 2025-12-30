@@ -149,10 +149,10 @@ The ArchiMate layered model presented here, illustrates how McDonald's business 
 │  │  ┌──────────────────────────────────────────────────────────────┐    │   │
 │  │  │  Technology Services & Infrastructure                        │    │   │
 │  │  │  • Global Feature Store (Customer Preferences, GCP)          │    │   │
-│  │  │  • Edge AI Inference (NVIDIA GPUs at Restaurants)            │    │   │
-│  │  │  • Real-time Data Pipeline (Apache Kafka)                    │    │   │
+│  │  │  • Edge AI Inference (Google Coral TPUs, Nvidia GPUs at Restaurants)  │    
+│  │  │  • Real-time Data Pipeline (Apache Kafka, Google Looker for BI)   │   │   
 │  │  │  • Model Registry & MLOps (GCR, MLFlow, ZenML, Kubeflow etc) │    │   │ 
-│  │  │  • IoT Gateway & Edge Computing                              │    │   │
+│  │  │  • IoT Gateway & Edge Computing (Google Cloud Pub/Sub)       │    │   │
 │  │  │  • API Gateway & Microservices                               │    │   │
 │  │  └──────────────────────────────────────────────────────────────┘    │   │
 │  └──────────────────────────────────────────────────────────────────────┘   │
@@ -162,10 +162,10 @@ The ArchiMate layered model presented here, illustrates how McDonald's business 
 │  │                        PHYSICAL LAYER                                │   │
 │  │  ┌──────────────────────────────────────────────────────────────┐    │   │
 │  │  │  Physical Infrastructure & Devices                           │    │   │
-│  │  │  • Restaurant POS Systems (NCR, Square, etc.)                │    │   │
+│  │  │  • Restaurant POS Systems (NCR, Square, Cloud Functions (integration) │    
 │  │  │  • Kitchen Automation Hardware & Robotics                    │    │   │
 │  │  │  • Drive-Thru Sensors, Cameras & Audio                       │    │   │
-│  │  │  • Cloud Regions (GCP, per market compliance)                │    │   │
+│  │  │  • Cloud Regions (GCP, Cloud CDN, per market compliance)     │    │   │
 │  │  │  • Edge Computing Devices (Restaurant Servers)               │    │   │
 │  │  └──────────────────────────────────────────────────────────────┘    │   │
 │  └──────────────────────────────────────────────────────────────────────┘   │
