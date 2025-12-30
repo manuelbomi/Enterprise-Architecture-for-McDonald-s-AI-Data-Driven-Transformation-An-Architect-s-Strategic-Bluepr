@@ -37,7 +37,7 @@
 
 <img width="3533" height="2917" alt="Image" src="https://github.com/user-attachments/assets/d8277f0c-4d95-418a-ad20-c544e0ea2e54" />
 
-*Figure 2: McDonald's current and target AI/Data capability landscape. All stakeholders alignment and strategies agreement can take place in the 1st and 2nd quarters of 2026, while deployments,  and global rollouts can take place between 2027 - 2028. Further refinements, MLOps and technology versioning can occur in the last 12 months through to the 1st quarter of 2029. 
+*Figure 2: McDonald's current and target AI/Data capability landscape. All stakeholders alignment and strategies agreement can take place in the 1st and 2nd quarters of 2026, while deployments,  and global rollouts can take place between 2027 - 2028. Further refinements, MLOps and technology versioning can occur in the last 12 months through to the 1st quarter of 2029.*
 
 ---
 
