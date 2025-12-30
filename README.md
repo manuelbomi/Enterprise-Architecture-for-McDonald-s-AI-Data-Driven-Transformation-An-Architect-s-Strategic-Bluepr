@@ -16,7 +16,7 @@
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a8c0b7f1-3386-4a05-8162-e88e5a157af6" />
 
-*Figure 1: McDonald's current and target AI/Data capability landscape. With all stakeholders engagement, the complete process from initial discussion phases to global deployment is achievable in 24 months, while further technology integration and EA re-assessement can happen from month 24 - month 36*
+*Figure 1: McDonald's current and target AI/Data capability landscape. With all stakeholders engagement, the complete process from initial discussion phases to global deployment is achievable in 24 months, while further technology integration and EA re-assessement can happen from month 24 to month 36*
 
 ```python
 
@@ -40,8 +40,17 @@
 *Figure 2: McDonald's current and target AI/Data capability landscape. All stakeholders alignment and strategies agreement can take place in the 1st and 2nd quarters of 2026, while deployments,  and global rollouts can take place between 2027 - 2028. Further refinements, MLOps and technology versioning can occur in the last 12 months through to the 1st quarter of 2029.*
 
 > [!IMPORTANT]
-> Note that the viewpoints in this discourse is from the Architect's only perspective at this time. Full decisions regarding methodologies, approach and timing can only be agreed after extensive discussuions with all technical and business stakeholders
+> Note that the viewpoints expressed in this discourse is from the Architect's only perspective at this time. Full decisions regarding methodologies, approach and timing can only be agreed after extensive discussuions with all technical and business stakeholders
+> The enterprise architecture perspectives, capability models, and transformation roadmaps presented in this discourse represent preliminary architectural viewpoints developed from an Enterprise Architect's professional perspective. These recommendations are based on:
+> 1. Technical analysis of McDonald's public disclosures, technical blogs, and industry architecture patterns.
+> 2. Capability modeling frameworks (TOGAF, ArchiMate) applied to McDonald's specific context.
+> 3. Professional architectural judgment regarding scalable, sustainable AI/data platform design.
+> This architectural perspective only serves as a starting point for discussion—not a finalized plan. The true value will be realized through:
+> (i) Collaborative refinements/discussion with all stakeholder groups
+> (ii) Iterative validation through prototypes and pilots &
+> (iii) Adaptive evolution based on implementation learnings
 >
+> 
 
 
 
