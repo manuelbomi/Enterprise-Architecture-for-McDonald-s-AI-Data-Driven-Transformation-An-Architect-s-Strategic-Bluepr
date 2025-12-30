@@ -454,26 +454,11 @@ quadrantChart
   
 ---
 
-### 4.2 Financial Impact Analysis for Data/AI/EA Adoption
+### 4.2 Enterprise Architecture/AI/Data?MLOps Business Case: Financial Impact Analysis
 
-#### Three-Year ROI Projection (40,000 restaurants):
+### Three-Year Financial Comparison
 
-| Investment Area | EA-Guided Approach | Current Trajectory | Delta | Rationale |
-|-----------------|--------------------|--------------------|-------|-----------|
-| Personalization ROI | $1.2B annual sales lift | $0.6B annual sales lift | +$0.6B | Unified customer view vs fragmented data |
-| Kitchen Efficiency | 15% food cost reduction | 5% reduction | +$0.9B | AI-optimized inventory vs basic systems |
-| Labor Optimization | 10% labor cost reduction | 2% reduction | +$0.4B | Predictive scheduling vs static schedules |
-| Implementation Cost | $2.1B total investment | $1.8B investment | -$0.3B | Strategic platform vs point solutions |
-| Technical Debt | $0.2B annual maintenance | $0.5B annual maintenance | +$0.3B | Standardized architecture vs siloed systems |
-| 3-Year Net Value | +$3.1B | +$0.9B | +$2.2B | EA advantage |
-
-
-
-# Enterprise Architecture Business Case: Financial Impact Analysis
-
-## Three-Year Financial Comparison
-
-| Investment Area | 🏗️ EA-Guided Strategy | 🚧 Current/Baseline | 📊 Delta (EA Advantage) | 💡 Strategic Rationale |
+| Investment Area |  EA-Guided Strategy |  Current/Baseline |  Delta (EA Advantage) |  Strategic Rationale |
 |-----------------|-----------------------|---------------------|-------------------------|------------------------|
 | **Personalization Revenue** | **$1.2B** annual sales lift<br>*($3.6B over 3 years)* | $0.6B annual lift<br>*($1.8B over 3 years)* | **+$1.8B**<br>*(+100% increase)* | Unified customer data platform enables cross-channel personalization at scale |
 | **Kitchen Cost Savings** | **15%** food cost reduction<br>*(Saves $0.9B annually)* | 5% reduction<br>*(Saves $0.3B annually)* | **+$1.8B**<br>*(Additional $0.6B/year)* | AI-driven demand forecasting reduces waste and optimizes inventory |
@@ -482,7 +467,9 @@ quadrantChart
 | **Technical Debt Cost** | **$0.2B** annual maintenance<br>*(Standardized architecture)* | $0.5B annual maintenance<br>*(Siloed systems)* | **+$0.9B**<br>*(Saves $0.3B/year)* | Reduced integration complexity and simplified maintenance |
 | **3-Year Total Net Value** | **+$3.1B**<br>*(Value - Investment)* | +$0.9B<br>*(Value - Investment)* | **+$2.2B**<br>*(144% improvement)* | **EA creates 3.5x more net value** |
 
-## Financial Summary (3-Year View)
+*Table 4: Financial analysis showing EA value for McDonald's scale*
+
+### Financial Summary (3-Year View)
 
 ### EA-Guided Approach
 - **Total Investment:** $2.1B
@@ -504,50 +491,44 @@ quadrantChart
 - **Value Multiplier:** **1.65x higher**
 - **Payback Period:** **14 months faster**
 
-## Strategic Implications
+### Strategic Implications
 1. **Short-term Trade-off:** Higher initial investment ($300M) required
 2. **Long-term Benefit:** Delivers $2.2B additional value over 3 years
 3. **Scalability:** EA platform enables exponential future growth
 4. **Risk Management:** Reduces technical debt and maintenance costs
 5. **Competitive Advantage:** Creates capabilities competitors cannot easily replicate
 
-Investment Area       | EA-Guided Approach     | Current Trajectory     | Delta   | Rationale
-----------------------|------------------------|------------------------|---------|----------------------------------------------
-Personalization ROI   | $1.2B annual sales lift| $0.6B annual sales lift| +$0.6B  | Unified customer view vs fragmented data
-Kitchen Efficiency    | 15% food cost reduction| 5% reduction           | +$0.9B  | AI-optimized inventory vs basic systems
-Labor Optimization    | 10% labor cost reduction| 2% reduction           | +$0.4B  | Predictive scheduling vs static schedules
-Implementation Cost   | $2.1B total investment | $1.8B investment       | -$0.3B  | Strategic platform vs point solutions
-Technical Debt        | $0.2B annual maintenance| $0.5B annual maintenance| +$0.3B | Standardized architecture vs siloed systems
-3-Year Net Value      | +$3.1B                 | +$0.9B                 | +$2.2B  | EA advantage
+---
 
+## 5. McDonald's Advanced Capabilities: Specialized Requirements
 
-# Complete Enterprise Architecture Business Case
+### 5.1 MLOps at McDonald's Global Scale
 
-## Financial Impact Analysis
-| Investment Area | EA-Guided | Current | Delta | Rationale |
-|-----------------|-----------|---------|-------|-----------|
-| Personalization ROI | $1.2B | $0.6B | +$0.6B | Unified vs fragmented data |
-| Kitchen Efficiency | 15% | 5% | +$0.9B | AI-optimized vs basic systems |
-| 3-Year Net Value | +$3.1B | +$0.9B | +$2.2B | EA advantage |
+#### Unique McDonald's Requirements:
 
-## Competitive Benchmarking
-| Capability | McDonald's | Starbucks | Gap | Priority |
-|------------|------------|-----------|-----|----------|
-| Franchise Tech | 5 | 10 | -5 | Critical |
-| Kitchen AI | 6 | 7 | -1 | High |
-| Personalization | 8 | 9 | -1 | Medium |
+- Model Governance: 100+ countries with different approval processes
 
-## Capability Gap Analysis
-**Current:** 2.2/5.0 → **Target:** 4.5/5.0
-- **Gaps:** IoT sensors, computer vision, ML models
-- **Investment:** $3.2M per 1,000 restaurants
-- **ROI:** 15% food cost reduction, 20% throughput increase
+- Edge Deployment: Model updates to 40,000+ locations with varying connectivity
 
-## **Summary:**
-- **EA delivers +$2.2B additional value** over 3 years
-- **Critical gap in franchise technology** vs Starbucks
-- **Kitchen automation** offers major efficiency gains
-- **Strategic EA investment** pays back in 14 months
+- A/B Testing: Coordinated experiments across franchisee-owned restaurants
 
+- Data Pipeline: 50M+ daily app users + 69M daily transactions
 
+```python
+McDonald's Global MLOps Architecture:
+├── Central Model Development (Chicago HQ)
+│   ├── Global customer behavior models
+│   ├── Supply chain optimization models
+│   └── Menu engineering algorithms
+├── Regional Adaptation Hubs
+│   ├── Market-specific customization
+│   ├── Local regulation compliance
+│   └── Cultural preference adaptation
+└── Restaurant Edge Inference
+    ├── Low-latency personalization
+    ├── Real-time kitchen optimization
+    └── Offline capability (poor connectivity)
+```
+
+*Figure 6: McDonald's global MLOps architecture for restaurant deployment*
 
