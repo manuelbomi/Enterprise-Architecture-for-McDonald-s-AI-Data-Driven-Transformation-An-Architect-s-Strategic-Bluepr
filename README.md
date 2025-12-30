@@ -176,7 +176,7 @@ Figure 3: ArchiMate layered architecture showing McDonald's technology stack fro
 
 ---
 
-### 🍟 2.3 McDonald's AI Systems: Zachman Framework Analysis
+### 2.3 McDonald's AI Systems: Zachman Framework Analysis
 
 The Zachman Framework analysis presented here, provides a comprehensive matrix view of McDonald's AI systems across six stakeholder perspectives and architectural abstractions. This structured approach ensures all aspects—from executive strategy to technical implementation—are considered in designing scalable, compliant AI solutions that meet both business objectives and technical requirements across McDonald's global operations.
 
@@ -236,7 +236,7 @@ The Zachman Framework analysis presented here, provides a comprehensive matrix v
 
 ---
 
-### 🍟 McDonald's Automation Capability & GAP Analysis (Kitchen Focused Analysis)
+### 🍟 McDonald's Automation Capability & GAP Analysis (<ins>Kitchen Focused Analysis</ins>)
 
 ### <ins>Current vs Target State Comparison</kns>
 | | Current State | Target State | Gap |
