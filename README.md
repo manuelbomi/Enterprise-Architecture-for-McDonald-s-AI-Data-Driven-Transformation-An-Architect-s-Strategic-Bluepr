@@ -729,6 +729,30 @@ def get_model_deployment_status():
 
 ---
 
+## 8. McDonald's-Specific Success Metrics
+
+### Strategic KPIs for McDonald's:
+
+- Digital Sales Penetration: Target 40% of total sales (from current ~30%)
+
+- Personalization Effectiveness: 5% sales lift from AI recommendations
+
+- Restaurant Efficiency: 15% improvement in orders per labor hour
+
+- Global Model Reuse: 70% of AI models deployed across >10 markets
+
+### Operational KPIs:
+
+- Drive-thru AI Accuracy: 95% order accuracy in voice AI
+
+- Kitchen Automation Uptime: 99.9% system availability
+
+- Model Update Velocity: Weekly updates to personalization models
+
+- Franchisee Satisfaction: 80% positive feedback on AI tools
+
+---
+
 
 
 
