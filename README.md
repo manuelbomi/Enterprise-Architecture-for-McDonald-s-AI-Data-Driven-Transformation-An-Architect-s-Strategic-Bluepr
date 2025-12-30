@@ -10,6 +10,14 @@
 
 #### Our detailed and comprehensive business capability assessment presented in this repository is an in-depth discourse on how McDonald's can methodically transition from its current AI/Data tech adoption to a global  and QSR that fully utilizes the benefits of various type of technologies to enhance customers' and shareholders' satisfication 
 
+
+
+### The capability assessment of this repository fully discusses how McDonald's can painlessly realise the enterprise architecture vision shown in figures 1 & 2
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a8c0b7f1-3386-4a05-8162-e88e5a157af6" />
+
+### *Figure 1: McDonald's current and target AI/Data capability landscape. With all stakeholders engagement, the complete process from initial discussion phases to global deployment is achievable in 24 months, while further technology integration and EA re-assessement can happen from month 24 - month 36*
+
 ```python
 
                CURRENT STATE (2026)                             TARGET STATE (2029)
@@ -27,7 +35,9 @@
                                  ARCHITECTURE ROADMAP
 ```
 
-### The capability assessment of this repository fully discusses how McDonald's can painlessly realise the enterprise architecture vision shown in figures 1 & 2 
+<img width="3533" height="2917" alt="Image" src="https://github.com/user-attachments/assets/d8277f0c-4d95-418a-ad20-c544e0ea2e54" />
+
+### *Figure 2: McDonald's current and target AI/Data capability landscape. All stakeholders alignment and strategies agreement can take place in the 1st and 2nd quarters of 2026, while deployments,  and global rollouts can take place between 2027 - 2028. Further refinements, MLOps and technology versioning can occur in the last 12 months through to the 1st quarter of 2029. 
 
 ---
 
@@ -48,14 +58,14 @@
 - Regulatory Diversity: 100+ countries with varying data privacy and AI regulations
 
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a8c0b7f1-3386-4a05-8162-e88e5a157af6" />
+
 
 
 
 
 <img width="3820" height="2881" alt="Image" src="https://github.com/user-attachments/assets/4f6802bf-e575-4b9f-b80f-4b6ac1fe6dfe" />
 
-<img width="3533" height="2917" alt="Image" src="https://github.com/user-attachments/assets/d8277f0c-4d95-418a-ad20-c544e0ea2e54" />
+
 
 
 ### *Figure 1: McDonald's current and target AI/Data capability landscape*
