@@ -296,7 +296,7 @@ The Zachman Framework analysis presented here, provides a comprehensive matrix v
 
 ```mermaid
 quadrantChart
-    title McDonald's Kitchen Automation Capability Gaps
+    title Fig. 5: McDonald's Kitchen Automation Capability Gaps
     x-axis "Current Maturity" --> "Target Maturity"
     y-axis "Technology Complexity" --> "Business Impact"
     
@@ -315,7 +315,8 @@ quadrantChart
 ```
 ### 💰 <ins>Investment & ROI Analysis</ins>
 
-### <ins>Financial Summary</ins>
+*Table 2: Financial Summary*
+
 | Metric | Value | Calculation |
 |--------|-------|-------------|
 | **Per Restaurant Cost** | $3,200 | Total investment ÷ 1,000 |
@@ -357,7 +358,7 @@ quadrantChart
 
 <img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/3c40b8d3-97bc-4d7e-9773-2412bac10213" />
 
- *Figure 4: McDonald's-specific AI capability assessment & Gap Analysis*
+ *Figure 6: McDonald's-specific AI capability assessment & Gap Analysis*
   
 ---
 
@@ -381,13 +382,15 @@ quadrantChart
 
 <img width="1400" height="700" alt="Image" src="https://github.com/user-attachments/assets/f813d631-eb49-4ebf-b0d9-46d0851ea6ea">
 
-  *Figure 5: EA-guided approach impact analysis for McDonald's*
+  *Figure 7: EA-guided approach impact analysis for McDonald's*
   
 ---
 
 ### 4.2 Enterprise Architecture/AI/Data/MLOps Business Case: Financial Impact Analysis
 
 ### Three-Year Financial Comparison
+
+*Table 3: Financial analysis showing EA value for McDonald's scale*
 
 | Investment Area |  EA-Guided Strategy |  Current/Baseline |  Delta (EA Advantage) |  Strategic Rationale |
 |-----------------|-----------------------|---------------------|-------------------------|------------------------|
@@ -398,7 +401,7 @@ quadrantChart
 | **Technical Debt Cost** | **$0.2B** annual maintenance<br>*(Standardized architecture)* | $0.5B annual maintenance<br>*(Siloed systems)* | **+$0.9B**<br>*(Saves $0.3B/year)* | Reduced integration complexity and simplified maintenance |
 | **3-Year Total Net Value** | **+$3.1B**<br>*(Value - Investment)* | +$0.9B<br>*(Value - Investment)* | **+$2.2B**<br>*(144% improvement)* | **EA creates 3.5x more net value** |
 
-*Table 4: Financial analysis showing EA value for McDonald's scale*
+
 
 ### Financial Summary (3-Year View)
 
@@ -588,7 +591,7 @@ timeline
 ---
 
 
-#### Transformation Timeline Details
+*Table 4: Transformation Timeline Details*
 
 | Year | Phase | Key Initiatives | Expected Outcomes |
 |------|-------|-----------------|-------------------|
