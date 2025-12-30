@@ -230,15 +230,15 @@ The Zachman Framework analysis presented here, provides a comprehensive matrix v
 
 #### McDonald's-Specific Capabilities:
 
-- Real-time Menu Optimization: Dynamic pricing and item suggestions based on inventory, weather, local events
+- Real-time Menu Optimization: Dynamic pricing and item suggestions based on inventory, weather, local events; etc.
 
-- Predictive Kitchen Load Balancing: AI forecasting of order volumes for preparation optimization
+- Predictive Kitchen Load Balancing: AI forecasting of order volumes for preparation optimization.
 
-- Unified Customer Identity: 360° view across app, kiosk, drive-thru, and delivery
+- Unified Customer Identity: 360° view across app, kiosk, drive-thru, and delivery.
 
-- Autonomous Food Safety Monitoring: Computer vision for quality control
+- Autonomous Food Safety Monitoring: Computer vision for quality control.
 
-- Franchisee Performance Intelligence: Predictive analytics for local store marketing
+- Franchisee Performance Intelligence: Predictive analytics for local store marketing.
 
 ---
 
