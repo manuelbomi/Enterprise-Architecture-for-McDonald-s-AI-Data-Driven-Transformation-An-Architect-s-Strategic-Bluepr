@@ -10,13 +10,17 @@
 
 #### The capability assessment presented in this repository constitutes an in-depth analysis of how McDonald's can methodically advance its AI/Data technology adoption. This progression will strategically reposition the company as a global QSR leader that fully leverages technological innovation to enhance customer experience and shareholder value.
 
-> [!NOTE]
-> Interested readers may want to a broad overview of the vision statement here:  https://github.com/manuelbomi/McDonalds-Golden-Arches-Intelligence-Core-A-Domain-Driven-Enterprise-Architecture/blob/main/README.md
 
 ---
 
 
 #### The capability assessment of this repository fully discusses how McDonald's can painlessly realise the enterprise architecture vision shown in figures 1 & 2
+
+> [!NOTE]
+> Interested readers may want to a broad overview of the vision statement here:  https://github.com/manuelbomi/McDonalds-Golden-Arches-Intelligence-Core-A-Domain-Driven-Enterprise-Architecture/blob/main/README.md
+>
+> 
+
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a8c0b7f1-3386-4a05-8162-e88e5a157af6" />
 
