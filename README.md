@@ -10,6 +10,9 @@
 
 #### The capability assessment presented in this repository constitutes an in-depth analysis of how McDonald's can methodically advance its AI/Data technology adoption. This progression will strategically reposition the company as a global QSR leader that fully leverages technological innovation to enhance customer experience and shareholder value.
 
+> [!NOTE]
+> Interested readers may want to a broad overview of the vision statement here:  https://github.com/manuelbomi/McDonalds-Golden-Arches-Intelligence-Core-A-Domain-Driven-Enterprise-Architecture/blob/main/README.md
+
 ---
 
 
