@@ -874,7 +874,7 @@ LinkedIn:  https://www.linkedin.com/in/emmanuel-oyekanlu-6ba98616
 Github:  https://github.com/manuelbomi
 
 ```
-[![Icons](https://skillicons.dev/icons?i=aws,azure,gcp,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
+[![Icons](https://skillicons.dev/icons?i=gcp,azure,aws,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
 
 
