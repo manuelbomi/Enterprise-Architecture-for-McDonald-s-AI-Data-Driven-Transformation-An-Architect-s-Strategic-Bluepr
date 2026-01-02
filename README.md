@@ -473,6 +473,11 @@ McDonald's Global MLOps Architecture:
 
 *Figure 6: McDonald's global MLOps architecture for restaurant deployment*
 
+> [!IMPORTANT]
+> Interested readers may want to preview how to align MLOps phases to business capabilities here:  https://github.com/manuelbomi/Enterprise-Architecture-for-Business-Capabilities-Driving-Data-Analytics-AI-Digital-Transformation-
+>
+> 
+
 ---
 
 ### 5.2 McDonald's Edge AI Infrastructure
