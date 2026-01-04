@@ -42,7 +42,7 @@
 >
 > (i) Collaborative refinements/discussion with all stakeholder groups
 > 
-> (ii) Iterative validation through prototypes and pilots &
+> (ii) Iterative validation through prototypes and pilots 
 > 
 > (iii) Adaptive evolution based on implementation learnings
 >
