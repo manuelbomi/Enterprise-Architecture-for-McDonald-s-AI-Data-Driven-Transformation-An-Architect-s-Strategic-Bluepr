@@ -33,7 +33,7 @@
 *Figure 2: McDonald's AI/Data Transformation Timeline. Stakeholder alignment and strategy agreement will be completed in the first two quarters of 2026. Developmnets, deploymenst and global rollout will occur between 2027-2028, followed by refinements, MLOps implementation, and technology versioning through the first quarter of 2029.*
 
 > [!IMPORTANT]
-> <ins>Architectural Perspective & Collaborative Framework</ins>: This discourse reflects initial architectural viewpoints. Final methodology selection, implementation approaches, and scheduling will be determined through extensive consultation with all technical and business stakeholders
+> <ins>Architectural Perspective & Collaborative Framework</ins>: This discourse reflects initial architectural viewpoints. Final methodology selection, implementation approaches, and scheduling will be determined through extensive consultation with all technical and business stakeholders.
 > The enterprise architecture perspectives, capability models, and transformation roadmaps presented in this discourse represent preliminary architectural viewpoints developed from an Enterprise Architect's professional perspective. These recommendations are based on:
 > 1. Technical analysis of McDonald's public disclosures, technical blogs, and industry architecture patterns.
 > 2. Capability modeling frameworks (TOGAF, ArchiMate) applied to McDonald's specific context.
