@@ -6,7 +6,7 @@
 
 #### As a global restaurant chain serving over 69 million customers daily across 40,000+ locations, the company's evolution from traditional fast food to technology-enhanced service delivery necessitates a deliberate enterprise architecture approach.
 
-##### This comprehensive guide demonstrates how strategic business capability modeling (BCM) can enable McDonald's to systematically align its AI/ML ambitions—from hyper-personalization to fully automated kitchens—with executable technology roadmaps. The framework ensures measurable business outcomes while sustaining competitive advantage within the Quick-Service Restaurant (QSR) industry.
+#### This comprehensive guide demonstrates how strategic business capability modeling (BCM) can enable McDonald's to systematically align its AI/ML ambitions—from hyper-personalization to fully automated kitchens—with executable technology roadmaps. The framework ensures measurable business outcomes while sustaining competitive advantage within the Quick-Service Restaurant (QSR) industry.
 
 #### The capability assessment presented in this repository constitutes an in-depth analysis of how McDonald's can methodically advance its AI/Data technology adoption. This progression will strategically reposition the company as a global QSR leader that fully leverages technological innovation to enhance customer experience and shareholder value.
 
