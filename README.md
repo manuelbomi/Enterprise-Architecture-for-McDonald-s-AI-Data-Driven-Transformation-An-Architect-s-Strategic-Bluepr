@@ -17,7 +17,7 @@
 #### The capability assessment of this repository fully discusses how McDonald's can painlessly realise the enterprise architecture vision shown in figures 1 & 2
 
 > [!NOTE]
-> Interested readers may want to a broad overview of the vision statement here:  https://github.com/manuelbomi/McDonalds-Golden-Arches-Intelligence-Core-A-Domain-Driven-Enterprise-Architecture/blob/main/README.md
+> Interested readers may want to access a broad overview of the vision statement here:  https://github.com/manuelbomi/McDonalds-Golden-Arches-Intelligence-Core-A-Domain-Driven-Enterprise-Architecture/blob/main/README.md
 >
 > 
 
