@@ -30,7 +30,7 @@
 
 <img width="3533" height="2917" alt="Image" src="https://github.com/user-attachments/assets/d8277f0c-4d95-418a-ad20-c544e0ea2e54" />
 
-*Figure 2: McDonald's AI/Data Transformation Timeline. Stakeholder alignment and strategy agreement will be completed in the first two quarters of 2026. Developmnets, deploymenst and global rollout will occur between 2027-2028, followed by refinements, MLOps implementation, and technology versioning through the first quarter of 2029.*
+*Figure 2: McDonald's AI/Data Transformation Timeline. Stakeholder alignment and strategy agreement will be completed in the first two quarters of 2026. Developments, deploymnents and global rollout will occur between 2027-2028, followed by refinements, MLOps implementation, and technology versioning through the first quarter of 2029.*
 
 > [!IMPORTANT]
 > <ins>Architectural Perspective & Collaborative Framework</ins>: This discourse reflects initial architectural viewpoints. Final methodology selection, implementation approaches, and scheduling will be determined through extensive consultation with all technical and business stakeholders.
